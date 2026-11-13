@@ -1,0 +1,1180 @@
+Plant,Product,Month,Year,Qty,Amount,FcQty,FcAmount,MonthNo,Quarter
+Batang,Alderon RS Retail,January,2024,0.0,0.0,,,1,Q1
+Batang,Compound,January,2024,131400.0,2859840000.0,,,1,Q1
+Batang,Lasercool,January,2024,80706.0,2016209372.75,,,1,Q1
+Batang,Plafon Project,January,2024,0.0,0.0,,,1,Q1
+Batang,Plafond Retail,January,2024,0.0,0.0,,,1,Q1
+Batang,R 830,January,2024,0.0,0.0,,,1,Q1
+Gaharu,Compound,January,2024,0.0,0.0,,,1,Q1
+Gaharu,Export Alderon,January,2024,2340.0,31216500.0,,,1,Q1
+Gaharu,Lasercool,January,2024,80706.0,2016209372.75,,,1,Q1
+Gaharu,Pipe,January,2024,582499.34,10192959175.0,,,1,Q1
+Gaharu,Plafon Project,January,2024,14348.8,206321500.0,,,1,Q1
+Gaharu,Plafond Retail,January,2024,209181.8,3064255285.0,,,1,Q1
+Gaharu,WPC (Wall Panel Composite),January,2024,0.0,0.0,,,1,Q1
+Rungkut,Alderon RS Eco,January,2024,0.0,0.0,,,1,Q1
+Rungkut,Alderon RS Project,January,2024,0.0,0.0,,,1,Q1
+Rungkut,Alderon RS Retail,January,2024,155788.7,3041214217.6,,,1,Q1
+Rungkut,ID 860,January,2024,112321.42,2581340004.7,,,1,Q1
+Rungkut,Lite,January,2024,0.0,0.0,,,1,Q1
+Rungkut,R 830,January,2024,541214.4,12180763100.0,,,1,Q1
+Trembesi,Alderon RS Eco,January,2024,0.0,0.0,,,1,Q1
+Trembesi,Alderon RS Project,January,2024,26420.68,569060800.0,,,1,Q1
+Trembesi,Alderon RS Retail,January,2024,875198.55,16510340836.96,,,1,Q1
+Trembesi,Cladding,January,2024,0.0,0.0,,,1,Q1
+Trembesi,Export Alderon,January,2024,17103.6,441981517.44,,,1,Q1
+Trembesi,Flooring,January,2024,0.0,0.0,,,1,Q1
+Trembesi,Gutter,January,2024,0.0,0.0,,,1,Q1
+Trembesi,ID 860,January,2024,422570.76,9731232705.900002,,,1,Q1
+Trembesi,Lasertuff,January,2024,37994.0,806980000.0,,,1,Q1
+Trembesi,Lite,January,2024,37434.0,767397000.0,,,1,Q1
+Trembesi,Nok,January,2024,30050.12,1367913972.0,,,1,Q1
+Trembesi,PPDU,January,2024,16186.0,376810080.0,,,1,Q1
+Trembesi,R 830,January,2024,1749412.8,39978346800.0,,,1,Q1
+Batang,Alderon RS Retail,February,2024,0.0,0.0,,,2,Q1
+Batang,Compound,February,2024,119000.0,2660200000.0,,,2,Q1
+Batang,Export Alderon,February,2024,960.0,38647125.0,,,2,Q1
+Batang,Lasercool,February,2024,75262.0,1854959300.0,,,2,Q1
+Batang,Plafon Project,February,2024,0.0,0.0,,,2,Q1
+Batang,Plafond Retail,February,2024,17628.0,246792000.0,,,2,Q1
+Batang,R 830,February,2024,0.0,0.0,,,2,Q1
+Gaharu,Compound,February,2024,0.0,0.0,,,2,Q1
+Gaharu,Lasercool,February,2024,0.0,0.0,,,2,Q1
+Gaharu,Pipe,February,2024,409308.86,7108248474.95,,,2,Q1
+Gaharu,Plafon Project,February,2024,7341.6,111685770.0,,,2,Q1
+Gaharu,Plafond Retail,February,2024,239549.2,3348968430.0,,,2,Q1
+Gaharu,WPC (Wall Panel Composite),February,2024,0.0,0.0,,,2,Q1
+Rungkut,Alderon RS Eco,February,2024,0.0,0.0,,,2,Q1
+Rungkut,Alderon RS Project,February,2024,5778.0,116985600.0,,,2,Q1
+Rungkut,Alderon RS Retail,February,2024,178459.66,3432760029.6,,,2,Q1
+Rungkut,ID 860,February,2024,120255.5,2863002375.4,,,2,Q1
+Rungkut,R 830,February,2024,550005.6,12384421502.0,,,2,Q1
+Trembesi,Alderon RS Project,February,2024,24255.92,683435000.0,,,2,Q1
+Trembesi,Alderon RS Retail,February,2024,826115.3,16178405433.08,,,2,Q1
+Trembesi,Cladding,February,2024,0.0,0.0,,,2,Q1
+Trembesi,Export Alderon,February,2024,0.0,0.0,,,2,Q1
+Trembesi,Flooring,February,2024,0.0,0.0,,,2,Q1
+Trembesi,Gutter,February,2024,16700.0,423679000.0,,,2,Q1
+Trembesi,ID 830,February,2024,0.0,0.0,,,2,Q1
+Trembesi,ID 860,February,2024,432943.83,9871369599.3,,,2,Q1
+Trembesi,Lasertuff,February,2024,0.0,0.0,,,2,Q1
+Trembesi,Lite,February,2024,77877.0,1596478500.0,,,2,Q1
+Trembesi,Nok,February,2024,34286.32,1673858454.0,,,2,Q1
+Trembesi,PPDU,February,2024,0.0,0.0,,,2,Q1
+Trembesi,R 830,February,2024,1560105.6,35600966920.0,,,2,Q1
+Trembesi,Triplex,February,2024,0.0,0.0,,,2,Q1
+Batang,Alderon RS Retail,March,2024,36154.2,712139008.0,,,3,Q1
+Batang,Compound,March,2024,133575.0,3083902500.0,,,3,Q1
+Batang,Lasercool,March,2024,84830.0,2105244100.0,,,3,Q1
+Batang,Plafon Project,March,2024,1326.0,20861550.0,,,3,Q1
+Batang,Plafond Retail,March,2024,71260.8,1011909525.0,,,3,Q1
+Batang,R 830,March,2024,25680.0,570845000.0,,,3,Q1
+Gaharu,Compound,March,2024,0.0,0.0,,,3,Q1
+Gaharu,Export Alderon,March,2024,3104.4,58849260.0,,,3,Q1
+Gaharu,Lasercool,March,2024,0.0,0.0,,,3,Q1
+Gaharu,Pipe,March,2024,356116.6,6114093948.0,,,3,Q1
+Gaharu,Plafon Project,March,2024,34642.7,540227645.0,,,3,Q1
+Gaharu,Plafond Retail,March,2024,70050.3,1063719960.0,,,3,Q1
+Gaharu,WPC (Wall Panel Composite),March,2024,0.0,0.0,,,3,Q1
+Rungkut,Alderon RS Eco,March,2024,0.0,0.0,,,3,Q1
+Rungkut,Alderon RS Project,March,2024,20788.0,440189500.0,,,3,Q1
+Rungkut,Alderon RS Retail,March,2024,152406.4,2954816427.6,,,3,Q1
+Rungkut,ID 860,March,2024,196106.28,4498920628.8,,,3,Q1
+Rungkut,Lite,March,2024,0.0,0.0,,,3,Q1
+Rungkut,R 830,March,2024,534900.0,12046078946.0,,,3,Q1
+Trembesi,Alderon RS Project,March,2024,10857.56,243928106.0,,,3,Q1
+Trembesi,Alderon RS Retail,March,2024,843920.8,16704977612.0,,,3,Q1
+Trembesi,Cladding,March,2024,0.0,0.0,,,3,Q1
+Trembesi,Decobond,March,2024,0.0,0.0,,,3,Q1
+Trembesi,Export Alderon,March,2024,17136.0,453970779.79,,,3,Q1
+Trembesi,Flooring,March,2024,6961.11,116710400.0,,,3,Q1
+Trembesi,Gutter,March,2024,0.0,0.0,,,3,Q1
+Trembesi,ID 860,March,2024,761224.95,17403585678.7,,,3,Q1
+Trembesi,Lasertuff,March,2024,32076.0,677970000.0,,,3,Q1
+Trembesi,Lite,March,2024,11781.0,241510500.0,,,3,Q1
+Trembesi,Nok,March,2024,44798.0,2034478926.0,,,3,Q1
+Trembesi,PPDU,March,2024,11392.0,256320000.0,,,3,Q1
+Trembesi,R 830,March,2024,1743900.0,39898704068.04,,,3,Q1
+Batang,Alderon RS Retail,April,2024,67891.2,1309558733.0,,,4,Q2
+Batang,Compound,April,2024,116050.0,2562508590.34,,,4,Q2
+Batang,Lasercool,April,2024,78510.0,2001271300.0,,,4,Q2
+Batang,Plafon Project,April,2024,0.0,0.0,,,4,Q2
+Batang,Plafond Retail,April,2024,52056.0,746544720.0,,,4,Q2
+Batang,R 830,April,2024,57432.0,1276665500.0,,,4,Q2
+Gaharu,Compound,April,2024,0.0,0.0,,,4,Q2
+Gaharu,Export Alderon,April,2024,0.0,0.0,,,4,Q2
+Gaharu,Lasercool,April,2024,0.0,0.0,,,4,Q2
+Gaharu,Pipe,April,2024,298840.43,5002008223.0,,,4,Q2
+Gaharu,Plafon Project,April,2024,5451.8,85177385.0,,,4,Q2
+Gaharu,Plafond Retail,April,2024,30617.5,451238800.0,,,4,Q2
+Gaharu,WPC (Wall Panel Composite),April,2024,0.0,0.0,,,4,Q2
+Rungkut,Alderon RS Project,April,2024,0.0,0.0,,,4,Q2
+Rungkut,Alderon RS Retail,April,2024,113676.8,2188029337.6,,,4,Q2
+Rungkut,ID 860,April,2024,61894.84,1425940644.6,,,4,Q2
+Rungkut,R 830,April,2024,362575.2,8209489790.0,,,4,Q2
+Trembesi,Alderon RS Eco,April,2024,0.0,0.0,,,4,Q2
+Trembesi,Alderon RS Project,April,2024,21133.19,464924099.0,,,4,Q2
+Trembesi,Alderon RS Retail,April,2024,600240.35,11726594826.0,,,4,Q2
+Trembesi,Cladding,April,2024,0.0,0.0,,,4,Q2
+Trembesi,Export Alderon,April,2024,0.0,0.0,,,4,Q2
+Trembesi,Flooring,April,2024,0.0,0.0,,,4,Q2
+Trembesi,Gutter,April,2024,6350.0,161099500.0,,,4,Q2
+Trembesi,ID 860,April,2024,207295.82,4940642038.0,,,4,Q2
+Trembesi,Lasertuff,April,2024,0.0,0.0,,,4,Q2
+Trembesi,Lite,April,2024,24820.0,508810000.0,,,4,Q2
+Trembesi,Nok,April,2024,34890.0,1574160284.0,,,4,Q2
+Trembesi,PPDU,April,2024,0.0,0.0,,,4,Q2
+Trembesi,R 830,April,2024,868082.4,19715576430.0,,,4,Q2
+Batang,Alderon RS Retail,May,2024,84910.0,1574420864.0,,,5,Q2
+Batang,Compound,May,2024,113000.0,2522275000.0,,,5,Q2
+Batang,Lasercool,May,2024,26364.5,622816460.0,,,5,Q2
+Batang,Plafon Project,May,2024,2264.0,6402800.0,,,5,Q2
+Batang,Plafond Retail,May,2024,230787.8,1897786205.0,,,5,Q2
+Batang,R 830,May,2024,161664.0,3593656000.0,,,5,Q2
+Gaharu,Compound,May,2024,0.0,0.0,,,5,Q2
+Gaharu,Lasercool,May,2024,0.0,0.0,,,5,Q2
+Gaharu,Pipe,May,2024,370818.47,6190280537.0,,,5,Q2
+Gaharu,Plafon Project,May,2024,14410.0,217940050.0,,,5,Q2
+Gaharu,Plafond Retail,May,2024,97547.3,1378056200.0,,,5,Q2
+Gaharu,WPC (Wall Panel Composite),May,2024,0.0,0.0,,,5,Q2
+Rungkut,Alderon RS Project,May,2024,3010.8,68912580.0,,,5,Q2
+Rungkut,Alderon RS Retail,May,2024,128099.9,2416447657.6,,,5,Q2
+Rungkut,ID 860,May,2024,153619.3,3526374371.9,,,5,Q2
+Rungkut,Lite,May,2024,0.0,0.0,,,5,Q2
+Rungkut,R 830,May,2024,457855.2,10472429454.0,,,5,Q2
+Trembesi,Alderon RS Eco,May,2024,0.0,0.0,,,5,Q2
+Trembesi,Alderon RS Project,May,2024,21847.5,491497485.0,,,5,Q2
+Trembesi,Alderon RS Retail,May,2024,914087.2,18086457725.0,,,5,Q2
+Trembesi,Cladding,May,2024,0.0,0.0,,,5,Q2
+Trembesi,Export Alderon,May,2024,21691.35,655126416.81,,,5,Q2
+Trembesi,Flooring,May,2024,0.0,0.0,,,5,Q2
+Trembesi,Gutter,May,2024,0.0,0.0,,,5,Q2
+Trembesi,ID 860,May,2024,395155.31,9205003139.7,,,5,Q2
+Trembesi,Lasertuff,May,2024,50972.68,1203527675.0,,,5,Q2
+Trembesi,Lite,May,2024,106076.6,2174570300.0,,,5,Q2
+Trembesi,Nok,May,2024,32755.0,1502313682.0,,,5,Q2
+Trembesi,PPDU,May,2024,49056.0,1103760000.0,,,5,Q2
+Trembesi,R 830,May,2024,1684704.0,39147507180.0,,,5,Q2
+Batang,Alderon RS Retail,June,2024,119045.4,2337060000.0,,,6,Q2
+Batang,Compound,June,2024,90450.0,2115590000.0,,,6,Q2
+Batang,Lasercool,June,2024,30796.0,779764200.0,,,6,Q2
+Batang,Plafon Project,June,2024,6410.4,110338290.0,,,6,Q2
+Batang,Plafond Retail,June,2024,106190.9,1483448217.5,,,6,Q2
+Batang,R 830,June,2024,194592.0,4325618000.0,,,6,Q2
+Gaharu,Compound,June,2024,0.0,0.0,,,6,Q2
+Gaharu,Export Alderon,June,2024,0.0,0.0,,,6,Q2
+Gaharu,Lasercool,June,2024,0.0,0.0,,,6,Q2
+Gaharu,Pipe,June,2024,529542.38,9049536280.0,,,6,Q2
+Gaharu,Plafon Project,June,2024,46137.8,680284790.0,,,6,Q2
+Gaharu,Plafond Retail,June,2024,59543.9,862987985.0,,,6,Q2
+Gaharu,WPC (Wall Panel Composite),June,2024,6317.72,112518900.0,,,6,Q2
+Rungkut,Alderon RS Project,June,2024,6676.8,152821680.0,,,6,Q2
+Rungkut,Alderon RS Retail,June,2024,146778.5,2887993178.0,,,6,Q2
+Rungkut,ID 860,June,2024,75505.92,1722948644.4,,,6,Q2
+Rungkut,Lite,June,2024,0.0,0.0,,,6,Q2
+Rungkut,R 830,June,2024,611923.2,13666368640.0,,,6,Q2
+Trembesi,Alderon RS Eco,June,2024,0.0,0.0,,,6,Q2
+Trembesi,Alderon RS Project,June,2024,22075.08,619592941.2,,,6,Q2
+Trembesi,Alderon RS Retail,June,2024,837555.98,16314922415.66,,,6,Q2
+Trembesi,Cladding,June,2024,0.0,0.0,,,6,Q2
+Trembesi,Export Alderon,June,2024,10650.73,245733388.98,,,6,Q2
+Trembesi,Flooring,June,2024,0.0,0.0,,,6,Q2
+Trembesi,Gutter,June,2024,0.0,0.0,,,6,Q2
+Trembesi,ID 860,June,2024,557756.31,12945321555.3,,,6,Q2
+Trembesi,Lasertuff,June,2024,0.0,0.0,,,6,Q2
+Trembesi,Lite,June,2024,32062.0,657271000.0,,,6,Q2
+Trembesi,Nok,June,2024,18469.89,959169440.0,,,6,Q2
+Trembesi,PPDU,June,2024,19400.0,436500000.0,,,6,Q2
+Trembesi,R 830,June,2024,1970114.4,44716388623.96,,,6,Q2
+Batang,Alderon RS Retail,July,2024,153914.7,2900265000.0,,,7,Q3
+Batang,Compound,July,2024,175100.0,4088519700.0,,,7,Q3
+Batang,ID 860,July,2024,0.0,0.0,,,7,Q3
+Batang,Lasercool,July,2024,51209.7,1338153775.0,,,7,Q3
+Batang,Plafon Project,July,2024,8192.8,120729220.0,,,7,Q3
+Batang,Plafond Retail,July,2024,132735.6,1855154100.0,,,7,Q3
+Batang,R 830,July,2024,190056.0,4224786500.0,,,7,Q3
+Gaharu,Compound,July,2024,0.0,0.0,,,7,Q3
+Gaharu,Export Alderon,July,2024,0.0,0.0,,,7,Q3
+Gaharu,Lasercool,July,2024,0.0,0.0,,,7,Q3
+Gaharu,Pipe,July,2024,558325.38,8999035460.0,,,7,Q3
+Gaharu,Plafon Project,July,2024,21601.4,330053720.0,,,7,Q3
+Gaharu,Plafond Retail,July,2024,85328.8,1213226575.0,,,7,Q3
+Gaharu,WPC (Wall Panel Composite),July,2024,35481.42,638389440.0,,,7,Q3
+Rungkut,Alderon RS Eco,July,2024,0.0,0.0,,,7,Q3
+Rungkut,Alderon RS Project,July,2024,16822.6,368083510.0,,,7,Q3
+Rungkut,Alderon RS Retail,July,2024,188172.8,3556450486.99,,,7,Q3
+Rungkut,ID 860,July,2024,80441.25,1889406623.6,,,7,Q3
+Rungkut,Lite,July,2024,0.0,0.0,,,7,Q3
+Rungkut,R 830,July,2024,646471.2,14435432930.0,,,7,Q3
+Trembesi,Alderon RS Eco,July,2024,0.0,0.0,,,7,Q3
+Trembesi,Alderon RS Project,July,2024,5703.36,170004000.0,,,7,Q3
+Trembesi,Alderon RS Retail,July,2024,946055.85,18393417926.38,,,7,Q3
+Trembesi,Cladding,July,2024,0.0,0.0,,,7,Q3
+Trembesi,Export Alderon,July,2024,0.0,0.0,,,7,Q3
+Trembesi,Flooring,July,2024,17825.6,257100000.0,,,7,Q3
+Trembesi,Gutter,July,2024,15460.0,392220200.0,,,7,Q3
+Trembesi,ID 860,July,2024,387509.71,8828312148.5,,,7,Q3
+Trembesi,Lasertuff,July,2024,36668.28,775034100.0,,,7,Q3
+Trembesi,Lite,July,2024,22100.0,453050000.0,,,7,Q3
+Trembesi,Nok,July,2024,34776.0,1591941137.0,,,7,Q3
+Trembesi,PPDU,July,2024,27574.0,622664600.0,,,7,Q3
+Trembesi,R 830,July,2024,1875542.4,42220851425.95,,,7,Q3
+Trembesi,Triplex,July,2024,0.0,0.0,,,7,Q3
+Batang,Alderon RS Project,August,2024,16822.6,368083510.0,,,8,Q3
+Batang,Alderon RS Retail,August,2024,129867.2,2400838000.0,,,8,Q3
+Batang,Compound,August,2024,202825.0,4749000000.0,,,8,Q3
+Batang,ID 860,August,2024,0.0,0.0,,,8,Q3
+Batang,Lasercool,August,2024,81826.8,2034073000.0,,,8,Q3
+Batang,Plafon Project,August,2024,12511.2,196834860.0,,,8,Q3
+Batang,Plafond Retail,August,2024,177908.6,2560955360.0,,,8,Q3
+Batang,R 830,August,2024,187161.6,4160446400.0,,,8,Q3
+Gaharu,Compound,August,2024,0.0,0.0,,,8,Q3
+Gaharu,Export Alderon,August,2024,5440.13,137882251.2,,,8,Q3
+Gaharu,Lasercool,August,2024,0.0,0.0,,,8,Q3
+Gaharu,Pipe,August,2024,518020.5,8394125900.0,,,8,Q3
+Gaharu,Plafon Project,August,2024,35621.8,528339400.0,,,8,Q3
+Gaharu,Plafond Retail,August,2024,70440.6,1014535770.0,,,8,Q3
+Gaharu,WPC (Wall Panel Composite),August,2024,11803.54,209275950.0,,,8,Q3
+Rungkut,Alderon RS Project,August,2024,2520.0,54593280.0,,,8,Q3
+Rungkut,Alderon RS Retail,August,2024,184186.14,3538773747.0,,,8,Q3
+Rungkut,ID 860,August,2024,165615.5,3911792207.3,,,8,Q3
+Rungkut,R 830,August,2024,603136.8,13478146050.0,,,8,Q3
+Trembesi,Alderon RS Project,August,2024,6731.4,154071390.0,,,8,Q3
+Trembesi,Alderon RS Retail,August,2024,900473.9,17450974620.0,,,8,Q3
+Trembesi,Alvera Wall Stone,August,2024,0.0,0.0,,,8,Q3
+Trembesi,Cladding,August,2024,0.0,0.0,,,8,Q3
+Trembesi,Decobond,August,2024,0.0,0.0,,,8,Q3
+Trembesi,Export Alderon,August,2024,17829.0,465945950.47,,,8,Q3
+Trembesi,Flooring,August,2024,0.0,0.0,,,8,Q3
+Trembesi,Gutter,August,2024,4000.0,101480000.0,,,8,Q3
+Trembesi,ID 830,August,2024,846.0,28200000.0,,,8,Q3
+Trembesi,ID 860,August,2024,380765.63,8748195887.1,,,8,Q3
+Trembesi,Lasertuff,August,2024,32127.92,689741400.0,,,8,Q3
+Trembesi,Lite,August,2024,34850.0,714425000.0,,,8,Q3
+Trembesi,Nok,August,2024,32867.29,1485676894.0,,,8,Q3
+Trembesi,PPDU,August,2024,13600.0,306000000.0,,,8,Q3
+Trembesi,R 830,August,2024,1845823.2,42032226066.98,,,8,Q3
+Batang,Alderon RS Retail,September,2024,140954.3,2730706960.0,,,9,Q3
+Batang,Compound,September,2024,160700.0,3485882939.19,,,9,Q3
+Batang,Export Alderon,September,2024,644.0,25627800.0,,,9,Q3
+Batang,Lasercool,September,2024,24730.0,611554700.0,,,9,Q3
+Batang,Plafon Project,September,2024,7353.6,108603360.0,,,9,Q3
+Batang,Plafond Retail,September,2024,137238.6,1960926195.0,,,9,Q3
+Batang,R 830,September,2024,186271.2,4140653550.0,,,9,Q3
+Gaharu,Compound,September,2024,0.0,0.0,,,9,Q3
+Gaharu,Export Alderon,September,2024,0.0,0.0,,,9,Q3
+Gaharu,Lasercool,September,2024,0.0,0.0,,,9,Q3
+Gaharu,Pipe,September,2024,573373.04,9513376635.0,,,9,Q3
+Gaharu,Plafon Project,September,2024,36269.4,535638240.0,,,9,Q3
+Gaharu,Plafond Retail,September,2024,120147.0,1833288105.0,,,9,Q3
+Gaharu,WPC (Wall Panel Composite),September,2024,8208.08,145929420.0,,,9,Q3
+Rungkut,Alderon RS Eco,September,2024,0.0,0.0,,,9,Q3
+Rungkut,Alderon RS Project,September,2024,8788.88,190987988.0,,,9,Q3
+Rungkut,Alderon RS Retail,September,2024,204227.8,3821983592.0,,,9,Q3
+Rungkut,ID 860,September,2024,179354.66,4144874549.3,,,9,Q3
+Rungkut,Lite,September,2024,0.0,0.0,,,9,Q3
+Rungkut,R 830,September,2024,557012.8,12979368404.0,,,9,Q3
+Trembesi,Alderon RS Eco,September,2024,0.0,0.0,,,9,Q3
+Trembesi,Alderon RS Project,September,2024,31243.72,645626032.0,,,9,Q3
+Trembesi,Alderon RS Retail,September,2024,970937.45,18873889419.2,,,9,Q3
+Trembesi,Cladding,September,2024,0.0,0.0,,,9,Q3
+Trembesi,Export Alderon,September,2024,19748.05,518118261.64,,,9,Q3
+Trembesi,Flooring,September,2024,0.0,0.0,,,9,Q3
+Trembesi,Gutter,September,2024,0.0,0.0,,,9,Q3
+Trembesi,ID 830,September,2024,24333.3,767850800.0,,,9,Q3
+Trembesi,ID 860,September,2024,380954.72,8470579071.3,,,9,Q3
+Trembesi,Lasertuff,September,2024,0.0,0.0,,,9,Q3
+Trembesi,Lite,September,2024,9180.0,188190000.0,,,9,Q3
+Trembesi,Nok,September,2024,25204.4,1154983610.0,,,9,Q3
+Trembesi,PPDU,September,2024,0.0,0.0,,,9,Q3
+Trembesi,R 830,September,2024,1887890.4,42621072558.0,,,9,Q3
+Trembesi,Triplex,September,2024,0.0,0.0,,,9,Q3
+Batang,Alderon RS Project,October,2024,16822.6,368083510.0,,,10,Q4
+Batang,Alderon RS Retail,October,2024,219383.4,4237390000.0,,,10,Q4
+Batang,Compound,October,2024,146200.0,3245566677.84,,,10,Q4
+Batang,Export Alderon,October,2024,583.0,26502052.5,,,10,Q4
+Batang,ID 860,October,2024,0.0,0.0,,,10,Q4
+Batang,Lasercool,October,2024,50816.5,1267246475.0,,,10,Q4
+Batang,Plafon Project,October,2024,21214.2,21840000.0,,,10,Q4
+Batang,Plafond Retail,October,2024,120510.4,2031932095.0,,,10,Q4
+Batang,R 830,October,2024,209352.0,4653720500.0,,,10,Q4
+Gaharu,Compound,October,2024,0.0,0.0,,,10,Q4
+Gaharu,Export Alderon,October,2024,4508.4,88217407.47,,,10,Q4
+Gaharu,Lasercool,October,2024,0.0,0.0,,,10,Q4
+Gaharu,Pipe,October,2024,798312.37,12948906368.0,,,10,Q4
+Gaharu,Plafon Project,October,2024,100112.6,1520257660.0,,,10,Q4
+Gaharu,Plafond Retail,October,2024,106070.6,1535484650.0,,,10,Q4
+Gaharu,WPC (Wall Panel Composite),October,2024,7972.2,141626550.0,,,10,Q4
+Rungkut,Alderon RS Eco,October,2024,0.0,0.0,,,10,Q4
+Rungkut,Alderon RS Project,October,2024,15321.8,350692430.0,,,10,Q4
+Rungkut,Alderon RS Retail,October,2024,186249.4,3619187840.0,,,10,Q4
+Rungkut,ID 860,October,2024,204233.99,4651108507.5,,,10,Q4
+Rungkut,Lasertuff,October,2024,0.0,0.0,,,10,Q4
+Rungkut,Lite,October,2024,10200.0,209100000.0,,,10,Q4
+Rungkut,R 830,October,2024,597187.2,13691123732.0,,,10,Q4
+Trembesi,Alderon RS Eco,October,2024,0.0,0.0,,,10,Q4
+Trembesi,Alderon RS Project,October,2024,18139.4,399792665.0,,,10,Q4
+Trembesi,Alderon RS Retail,October,2024,932585.9,18039863130.0,,,10,Q4
+Trembesi,Cladding,October,2024,0.0,0.0,,,10,Q4
+Trembesi,Export Alderon,October,2024,17140.2,431557043.39,,,10,Q4
+Trembesi,Flooring,October,2024,0.0,0.0,,,10,Q4
+Trembesi,Gutter,October,2024,9000.0,228330000.0,,,10,Q4
+Trembesi,ID 830,October,2024,44584.2,1406879200.0,,,10,Q4
+Trembesi,ID 860,October,2024,585495.66,12993028252.5,,,10,Q4
+Trembesi,Lasertuff,October,2024,6534.0,138105000.0,,,10,Q4
+Trembesi,Lite,October,2024,35768.0,733244000.0,,,10,Q4
+Trembesi,Nok,October,2024,69756.72,3139975034.0,,,10,Q4
+Trembesi,PPDU,October,2024,9880.0,222300000.0,,,10,Q4
+Trembesi,R 830,October,2024,2325703.2,52648658062.0,,,10,Q4
+Trembesi,Triplex,October,2024,0.0,0.0,,,10,Q4
+Batang,Alderon RS Retail,November,2024,252139.3,4829070000.0,,,11,Q4
+Batang,Compound,November,2024,157600.0,3706636804.0,,,11,Q4
+Batang,Lasercool,November,2024,59282.5,1559612200.0,,,11,Q4
+Batang,Plafon Project,November,2024,822.6,18300330.0,,,11,Q4
+Batang,Plafond Retail,November,2024,160773.6,2271981195.0,,,11,Q4
+Batang,R 830,November,2024,217142.4,4826894600.0,,,11,Q4
+Gaharu,Compound,November,2024,0.0,0.0,,,11,Q4
+Gaharu,Export Alderon,November,2024,3666.0,79818384.3,,,11,Q4
+Gaharu,Lasercool,November,2024,0.0,0.0,,,11,Q4
+Gaharu,Pipe,November,2024,820894.28,13018508479.98,,,11,Q4
+Gaharu,Plafon Project,November,2024,93283.2,1390439510.0,,,11,Q4
+Gaharu,Plafond Retail,November,2024,104643.2,1521784880.0,,,11,Q4
+Gaharu,WPC (Wall Panel Composite),November,2024,5496.44,97194240.0,,,11,Q4
+Rungkut,Alderon RS Eco,November,2024,0.0,0.0,,,11,Q4
+Rungkut,Alderon RS Project,November,2024,0.0,0.0,,,11,Q4
+Rungkut,Alderon RS Retail,November,2024,196275.6,3770920720.0,,,11,Q4
+Rungkut,ID 860,November,2024,199827.71,4322890000.0,,,11,Q4
+Rungkut,Lite,November,2024,63580.0,1500548500.0,,,11,Q4
+Rungkut,R 830,November,2024,542023.2,12253839570.0,,,11,Q4
+Trembesi,Alderon RS Project,November,2024,25329.53,550081036.8,,,11,Q4
+Trembesi,Alderon RS Retail,November,2024,965510.56,18513467738.0,,,11,Q4
+Trembesi,Cladding,November,2024,0.0,0.0,,,11,Q4
+Trembesi,Export Alderon,November,2024,0.0,0.0,,,11,Q4
+Trembesi,Flooring,November,2024,0.0,0.0,,,11,Q4
+Trembesi,Gutter,November,2024,19200.0,487104000.0,,,11,Q4
+Trembesi,ID 860,November,2024,642907.74,14255447370.0,,,11,Q4
+Trembesi,Lasertuff,November,2024,54687.6,1224593155.0,,,11,Q4
+Trembesi,Lite,November,2024,50898.0,1043409000.0,,,11,Q4
+Trembesi,Nok,November,2024,38223.0,1776074960.0,,,11,Q4
+Trembesi,PPDU,November,2024,21800.0,490500000.0,,,11,Q4
+Trembesi,R 830,November,2024,2268840.0,51559315504.98,,,11,Q4
+Trembesi,Triplex,November,2024,0.0,0.0,,,11,Q4
+Batang,Alderon RS Retail,December,2024,238795.0,4565360000.0,,,12,Q4
+Batang,Compound,December,2024,102080.0,2192736000.0,,,12,Q4
+Batang,Export Alderon,December,2024,2214.0,90590445.0,,,12,Q4
+Batang,Lasercool,December,2024,77916.5,1978265600.0,,,12,Q4
+Batang,Plafon Project,December,2024,8560.8,131275860.0,,,12,Q4
+Batang,Plafond Retail,December,2024,138059.6,1962385660.0,,,12,Q4
+Batang,R 830,December,2024,226670.4,5038694100.0,,,12,Q4
+Gaharu,Compound,December,2024,0.0,0.0,,,12,Q4
+Gaharu,Lasercool,December,2024,0.0,0.0,,,12,Q4
+Gaharu,Pipe,December,2024,939716.25,14756134954.0,,,12,Q4
+Gaharu,Plafon Project,December,2024,31251.2,504547950.0,,,12,Q4
+Gaharu,Plafond Retail,December,2024,72749.6,1040195000.0,,,12,Q4
+Gaharu,WPC (Wall Panel Composite),December,2024,4043.27,75679890.0,,,12,Q4
+Rungkut,Alderon RS Project,December,2024,3084.9,70608615.0,,,12,Q4
+Rungkut,Alderon RS Retail,December,2024,203305.2,3896296396.8,,,12,Q4
+Rungkut,ID 860,December,2024,187219.56,4217844055.0,,,12,Q4
+Rungkut,Lasertuff,December,2024,0.0,0.0,,,12,Q4
+Rungkut,Lite,December,2024,9928.0,203524000.0,,,12,Q4
+Rungkut,R 830,December,2024,720436.8,16261884812.0,,,12,Q4
+Trembesi,Alderon RS Project,December,2024,27921.28,635254528.0,,,12,Q4
+Trembesi,Alderon RS Retail,December,2024,853184.5,16492636704.8,,,12,Q4
+Trembesi,Alvera Wall Stone,December,2024,0.0,0.0,,,12,Q4
+Trembesi,Cladding,December,2024,0.0,0.0,,,12,Q4
+Trembesi,Export Alderon,December,2024,90030.89,2235850101.0,,,12,Q4
+Trembesi,Flooring,December,2024,0.0,0.0,,,12,Q4
+Trembesi,Gutter,December,2024,0.0,0.0,,,12,Q4
+Trembesi,ID 830,December,2024,0.0,0.0,,,12,Q4
+Trembesi,ID 860,December,2024,375294.86,8219150470.0,,,12,Q4
+Trembesi,Lasertuff,December,2024,30976.0,654720000.0,,,12,Q4
+Trembesi,Lite,December,2024,45900.0,940950000.0,,,12,Q4
+Trembesi,Nok,December,2024,26935.13,1251367366.0,,,12,Q4
+Trembesi,PPDU,December,2024,0.0,0.0,,,12,Q4
+Trembesi,R 830,December,2024,1951608.0,44222147504.0,,,12,Q4
+Batang,Alderon RS Retail,January,2025,231661.1,4470455000.0,,,1,Q1
+Batang,Compound,January,2025,172450.0,3901751940.34,,,1,Q1
+Batang,Lasercool,January,2025,32800.0,723633600.0,,,1,Q1
+Batang,Plafon Project,January,2025,0.0,0.0,,,1,Q1
+Batang,Plafond Retail,January,2025,160742.6,2247059060.0,,,1,Q1
+Batang,R 830,January,2025,219768.0,4885259500.0,,,1,Q1
+Gaharu,Compound,January,2025,0.0,0.0,,,1,Q1
+Gaharu,Export Alderon,January,2025,0.0,0.0,,,1,Q1
+Gaharu,Lasercool,January,2025,0.0,0.0,,,1,Q1
+Gaharu,Pipe,January,2025,523283.83,8215411195.0,,,1,Q1
+Gaharu,Plafon Project,January,2025,19263.4,290417035.0,,,1,Q1
+Gaharu,Plafond Retail,January,2025,179917.2,2537342460.0,,,1,Q1
+Gaharu,WPC (Wall Panel Composite),January,2025,13248.21,236225144.0,,,1,Q1
+Rungkut,Alderon RS Eco,January,2025,0.0,0.0,,,1,Q1
+Rungkut,Alderon RS Project,January,2025,0.0,0.0,,,1,Q1
+Rungkut,Alderon RS Retail,January,2025,185710.1,3518094237.2,,,1,Q1
+Rungkut,ID 860,January,2025,120015.07,2783039491.8,,,1,Q1
+Rungkut,Lite,January,2025,37230.0,744600000.0,,,1,Q1
+Rungkut,R 830,January,2025,527964.0,11851543550.0,,,1,Q1
+Trembesi,Alderon RS Eco,January,2025,0.0,0.0,,,1,Q1
+Trembesi,Alderon RS Project,January,2025,22004.24,558443350.0,,,1,Q1
+Trembesi,Alderon RS Retail,January,2025,898321.67,17353920329.2,,,1,Q1
+Trembesi,Cladding,January,2025,0.0,0.0,,,1,Q1
+Trembesi,Export Alderon,January,2025,19764.03,501652182.3,,,1,Q1
+Trembesi,Flooring,January,2025,0.0,0.0,,,1,Q1
+Trembesi,Gutter,January,2025,0.0,0.0,,,1,Q1
+Trembesi,ID 860,January,2025,359381.08,8169471151.2,,,1,Q1
+Trembesi,Lasertuff,January,2025,0.0,0.0,,,1,Q1
+Trembesi,Lite,January,2025,110534.0,2210680000.0,,,1,Q1
+Trembesi,Nok,January,2025,31215.92,1423229950.0,,,1,Q1
+Trembesi,PPDU,January,2025,0.0,0.0,,,1,Q1
+Trembesi,R 830,January,2025,1806823.2,40789618350.0,,,1,Q1
+Batang,Alderon RS Retail,February,2025,252362.0,4864328000.0,,,2,Q1
+Batang,Compound,February,2025,115175.0,2580550000.0,,,2,Q1
+Batang,Export Alderon,February,2025,0.0,0.0,,,2,Q1
+Batang,Lasercool,February,2025,78495.0,1947942450.0,,,2,Q1
+Batang,Plafon Project,February,2025,5732.4,89230560.0,,,2,Q1
+Batang,Plafond Retail,February,2025,158288.6,2236355855.0,,,2,Q1
+Batang,R 830,February,2025,229195.2,5094818300.0,,,2,Q1
+Gaharu,Compound,February,2025,0.0,0.0,,,2,Q1
+Gaharu,Lasercool,February,2025,0.0,0.0,,,2,Q1
+Gaharu,Pipe,February,2025,461739.5,7354592150.0,,,2,Q1
+Gaharu,Plafon Project,February,2025,24962.0,406232990.0,,,2,Q1
+Gaharu,Plafond Retail,February,2025,105174.0,1539775680.0,,,2,Q1
+Gaharu,WPC (Wall Panel Composite),February,2025,14325.2,252916480.0,,,2,Q1
+Rungkut,Alderon RS Eco,February,2025,10170.0,171358850.0,,,2,Q1
+Rungkut,Alderon RS Project,February,2025,7964.0,172968400.0,,,2,Q1
+Rungkut,Alderon RS Retail,February,2025,185905.45,3576853855.0,,,2,Q1
+Rungkut,ID 860,February,2025,151917.53,3549573606.4,,,2,Q1
+Rungkut,R 830,February,2025,588177.6,13453268950.0,,,2,Q1
+Trembesi,Alderon RS Project,February,2025,21271.9,494954345.0,,,2,Q1
+Trembesi,Alderon RS Retail,February,2025,980858.6,19020003127.0,,,2,Q1
+Trembesi,Cladding,February,2025,0.0,0.0,,,2,Q1
+Trembesi,Export Alderon,February,2025,28030.0,726672086.0,,,2,Q1
+Trembesi,Flooring,February,2025,0.0,0.0,,,2,Q1
+Trembesi,Gutter,February,2025,5740.0,145623800.0,,,2,Q1
+Trembesi,ID 830,February,2025,4530.54,136860719.1,,,2,Q1
+Trembesi,ID 860,February,2025,573799.47,13033600229.1,,,2,Q1
+Trembesi,Lasertuff,February,2025,0.0,0.0,,,2,Q1
+Trembesi,Lite,February,2025,70890.0,1417800000.0,,,2,Q1
+Trembesi,Nok,February,2025,30996.69,1445062816.0,,,2,Q1
+Trembesi,PPDU,February,2025,15424.0,347040000.0,,,2,Q1
+Trembesi,R 830,February,2025,1415882.4,32725808600.0,,,2,Q1
+Trembesi,Triplex,February,2025,0.0,0.0,,,2,Q1
+Batang,Alderon RS Retail,March,2025,180739.9,3508857000.0,,,3,Q1
+Batang,Compound,March,2025,148825.0,3221262500.0,,,3,Q1
+Batang,Lasercool,March,2025,69295.5,1676012380.0,,,3,Q1
+Batang,Plafon Project,March,2025,1536.0,24426240.0,,,3,Q1
+Batang,Plafond Retail,March,2025,96672.8,1365667745.0,,,3,Q1
+Batang,R 830,March,2025,130317.6,2896851650.0,,,3,Q1
+Gaharu,Compound,March,2025,0.0,0.0,,,3,Q1
+Gaharu,Export Alderon,March,2025,0.0,0.0,,,3,Q1
+Gaharu,Lasercool,March,2025,0.0,0.0,,,3,Q1
+Gaharu,Pipe,March,2025,520087.1,8350682060.0,,,3,Q1
+Gaharu,Plafon Project,March,2025,19283.6,299185340.0,,,3,Q1
+Gaharu,Plafond Retail,March,2025,140752.4,2005282520.0,,,3,Q1
+Gaharu,WPC (Wall Panel Composite),March,2025,5807.61,103351716.0,,,3,Q1
+Rungkut,Alderon RS Eco,March,2025,0.0,0.0,,,3,Q1
+Rungkut,Alderon RS Project,March,2025,0.0,0.0,,,3,Q1
+Rungkut,Alderon RS Retail,March,2025,227106.4,4381186000.0,,,3,Q1
+Rungkut,ID 860,March,2025,132560.08,2937366077.6,,,3,Q1
+Rungkut,Lite,March,2025,0.0,0.0,,,3,Q1
+Rungkut,R 830,March,2025,653853.6,14987578350.0,,,3,Q1
+Trembesi,Alderon RS Project,March,2025,2401.6,48032000.0,,,3,Q1
+Trembesi,Alderon RS Retail,March,2025,996535.14,19292084372.0,,,3,Q1
+Trembesi,Cladding,March,2025,0.0,0.0,,,3,Q1
+Trembesi,Decobond,March,2025,0.0,0.0,,,3,Q1
+Trembesi,Export Alderon,March,2025,22990.8,651416976.0,,,3,Q1
+Trembesi,Flooring,March,2025,0.0,0.0,,,3,Q1
+Trembesi,Gutter,March,2025,4000.0,101480000.0,,,3,Q1
+Trembesi,ID 860,March,2025,385125.26,8909122044.0,,,3,Q1
+Trembesi,Lasertuff,March,2025,0.0,0.0,,,3,Q1
+Trembesi,Lite,March,2025,0.0,0.0,,,3,Q1
+Trembesi,Nok,March,2025,30182.01,1370635859.0,,,3,Q1
+Trembesi,PPDU,March,2025,5600.0,126000000.0,,,3,Q1
+Trembesi,R 830,March,2025,1503825.6,34207504850.0,,,3,Q1
+Batang,Alderon RS Retail,April,2025,189055.0,3631660000.0,,,4,Q2
+Batang,Compound,April,2025,145575.0,3511645167.21,,,4,Q2
+Batang,Lasercool,April,2025,31665.0,813007138.0,,,4,Q2
+Batang,Plafon Project,April,2025,3232.0,45121600.0,,,4,Q2
+Batang,Plafond Retail,April,2025,98878.7,1435610675.0,,,4,Q2
+Batang,R 830,April,2025,142788.0,3174058250.0,,,4,Q2
+Gaharu,Compound,April,2025,0.0,0.0,,,4,Q2
+Gaharu,Export Alderon,April,2025,0.0,0.0,,,4,Q2
+Gaharu,Lasercool,April,2025,0.0,0.0,,,4,Q2
+Gaharu,Pipe,April,2025,366672.6,5794896630.0,,,4,Q2
+Gaharu,Plafon Project,April,2025,21655.0,332000605.0,,,4,Q2
+Gaharu,Plafond Retail,April,2025,51474.0,734497440.0,,,4,Q2
+Gaharu,WPC (Wall Panel Composite),April,2025,4499.34,79536012.0,,,4,Q2
+Rungkut,Alderon RS Project,April,2025,5739.2,126794940.8,,,4,Q2
+Rungkut,Alderon RS Retail,April,2025,214268.0,4080657200.0,,,4,Q2
+Rungkut,ID 860,April,2025,118174.5,2604121400.0,,,4,Q2
+Rungkut,R 830,April,2025,468460.8,10422112960.0,,,4,Q2
+Trembesi,Alderon RS Eco,April,2025,0.0,0.0,,,4,Q2
+Trembesi,Alderon RS Project,April,2025,15582.12,354700318.6,,,4,Q2
+Trembesi,Alderon RS Retail,April,2025,816216.99,15683802292.5,,,4,Q2
+Trembesi,Cladding,April,2025,0.0,0.0,,,4,Q2
+Trembesi,Export Alderon,April,2025,10931.61,312867238.0,,,4,Q2
+Trembesi,Flooring,April,2025,0.0,0.0,,,4,Q2
+Trembesi,Gutter,April,2025,4350.0,99323550.0,,,4,Q2
+Trembesi,ID 860,April,2025,380527.18,8557561194.4,,,4,Q2
+Trembesi,Lasertuff,April,2025,19175.2,376464000.0,,,4,Q2
+Trembesi,Lite,April,2025,13260.0,238680000.0,,,4,Q2
+Trembesi,Nok,April,2025,36474.83,1641134174.0,,,4,Q2
+Trembesi,PPDU,April,2025,0.0,0.0,,,4,Q2
+Trembesi,R 830,April,2025,1359007.2,29727802550.0,,,4,Q2
+Batang,Alderon RS Retail,May,2025,213411.5,3903340200.01,,,5,Q2
+Batang,Compound,May,2025,162100.0,3269239000.0,,,5,Q2
+Batang,Lasercool,May,2025,50267.2,1293218024.0,,,5,Q2
+Batang,Plafon Project,May,2025,8041.6,117634840.0,,,5,Q2
+Batang,Plafond Retail,May,2025,130264.4,1822621130.0,,,5,Q2
+Batang,R 830,May,2025,230589.6,5125814650.0,,,5,Q2
+Gaharu,Compound,May,2025,0.0,0.0,,,5,Q2
+Gaharu,Lasercool,May,2025,0.0,0.0,,,5,Q2
+Gaharu,Pipe,May,2025,404390.41,6358085665.0,,,5,Q2
+Gaharu,Plafon Project,May,2025,22870.6,347228620.0,,,5,Q2
+Gaharu,Plafond Retail,May,2025,91871.8,1340398465.0,,,5,Q2
+Gaharu,WPC (Wall Panel Composite),May,2025,4106.16,71961474.0,,,5,Q2
+Rungkut,Alderon RS Project,May,2025,12558.13,282541190.0,,,5,Q2
+Rungkut,Alderon RS Retail,May,2025,178873.4,3313632644.0,,,5,Q2
+Rungkut,ID 860,May,2025,173715.63,3908860303.6,,,5,Q2
+Rungkut,Lite,May,2025,10710.0,214200000.0,,,5,Q2
+Rungkut,R 830,May,2025,563649.6,12574290100.0,,,5,Q2
+Trembesi,Alderon RS Eco,May,2025,0.0,0.0,,,5,Q2
+Trembesi,Alderon RS Project,May,2025,11677.12,267616954.4,,,5,Q2
+Trembesi,Alderon RS Retail,May,2025,933245.73,17886767535.0,,,5,Q2
+Trembesi,Cladding,May,2025,0.0,0.0,,,5,Q2
+Trembesi,Export Alderon,May,2025,19891.3,514592777.92,,,5,Q2
+Trembesi,Flooring,May,2025,0.0,0.0,,,5,Q2
+Trembesi,Gutter,May,2025,0.0,0.0,,,5,Q2
+Trembesi,ID 860,May,2025,665252.71,15093142238.0,,,5,Q2
+Trembesi,Lasertuff,May,2025,0.0,0.0,,,5,Q2
+Trembesi,Lite,May,2025,7140.0,142800000.0,,,5,Q2
+Trembesi,Nok,May,2025,43905.79,2023427706.0,,,5,Q2
+Trembesi,PPDU,May,2025,0.0,0.0,,,5,Q2
+Trembesi,R 830,May,2025,1677360.0,38053510000.0,,,5,Q2
+Batang,Alderon RS Retail,June,2025,245212.0,4726795000.0,,,6,Q2
+Batang,Compound,June,2025,133125.0,2482277750.0,,,6,Q2
+Batang,Lasercool,June,2025,80530.45,2003558356.0,,,6,Q2
+Batang,Plafon Project,June,2025,6052.8,85316700.0,,,6,Q2
+Batang,Plafond Retail,June,2025,99555.2,1415985830.0,,,6,Q2
+Batang,R 830,June,2025,217804.8,4841619200.0,,,6,Q2
+Gaharu,Compound,June,2025,0.0,0.0,,,6,Q2
+Gaharu,Export Alderon,June,2025,0.0,0.0,,,6,Q2
+Gaharu,Lasercool,June,2025,0.0,0.0,,,6,Q2
+Gaharu,Pipe,June,2025,502285.45,8099644193.0,,,6,Q2
+Gaharu,Plafon Project,June,2025,41266.8,644389370.0,,,6,Q2
+Gaharu,Plafond Retail,June,2025,91041.8,1320446855.0,,,6,Q2
+Gaharu,WPC (Wall Panel Composite),June,2025,3705.2,60277114.0,,,6,Q2
+Rungkut,Alderon RS Project,June,2025,3226.08,73745500.4,,,6,Q2
+Rungkut,Alderon RS Retail,June,2025,254763.64,4800216436.0,,,6,Q2
+Rungkut,ID 860,June,2025,160953.7,3481699500.0,,,6,Q2
+Rungkut,Lite,June,2025,0.0,0.0,,,6,Q2
+Rungkut,R 830,June,2025,638467.2,14278933300.0,,,6,Q2
+Trembesi,Alderon RS Eco,June,2025,0.0,0.0,,,6,Q2
+Trembesi,Alderon RS Project,June,2025,10757.36,250414889.0,,,6,Q2
+Trembesi,Alderon RS Retail,June,2025,1156650.53,22441229230.0,,,6,Q2
+Trembesi,Cladding,June,2025,0.0,0.0,,,6,Q2
+Trembesi,Export Alderon,June,2025,13592.99,356590608.0,,,6,Q2
+Trembesi,Flooring,June,2025,0.0,0.0,,,6,Q2
+Trembesi,Gutter,June,2025,0.0,0.0,,,6,Q2
+Trembesi,ID 860,June,2025,581724.21,13410674761.0,,,6,Q2
+Trembesi,Lasertuff,June,2025,0.0,0.0,,,6,Q2
+Trembesi,Lite,June,2025,9809.0,196180000.0,,,6,Q2
+Trembesi,Nok,June,2025,37564.89,1747109880.0,,,6,Q2
+Trembesi,PPDU,June,2025,0.0,0.0,,,6,Q2
+Trembesi,R 830,June,2025,1991104.8,44829238650.0,,,6,Q2
+Batang,Alderon RS Retail,July,2025,276066.8,5049003256.0,,,7,Q3
+Batang,Compound,July,2025,175795.0,4001381097.13,,,7,Q3
+Batang,ID 860,July,2025,0.0,0.0,,,7,Q3
+Batang,Lasercool,July,2025,29374.6,712484520.0,,,7,Q3
+Batang,Plafon Project,July,2025,5427.6,78768960.0,,,7,Q3
+Batang,Plafond Retail,July,2025,135018.6,1922311740.0,,,7,Q3
+Batang,R 830,July,2025,408352.8,8438209450.0,,,7,Q3
+Gaharu,Compound,July,2025,0.0,0.0,,,7,Q3
+Gaharu,Export Alderon,July,2025,9111.08,278839145.36,,,7,Q3
+Gaharu,Lasercool,July,2025,0.0,0.0,,,7,Q3
+Gaharu,Pipe,July,2025,550811.55,8902958490.0,,,7,Q3
+Gaharu,Plafon Project,July,2025,16927.4,259018840.0,,,7,Q3
+Gaharu,Plafond Retail,July,2025,128651.6,1866504140.0,,,7,Q3
+Gaharu,WPC (Wall Panel Composite),July,2025,2874.48,48544468.4,,,7,Q3
+Rungkut,Alderon RS Eco,July,2025,69368.0,1150497140.0,,,7,Q3
+Rungkut,Alderon RS Project,July,2025,12378.52,284960880.2,,,7,Q3
+Rungkut,Alderon RS Retail,July,2025,279232.6,4795380540.0,,,7,Q3
+Rungkut,ID 860,July,2025,205590.55,4501933764.4,,,7,Q3
+Rungkut,Lite,July,2025,8670.0,173400000.0,,,7,Q3
+Rungkut,R 830,July,2025,668853.6,14002411180.0,,,7,Q3
+Trembesi,Alderon RS Eco,July,2025,0.0,0.0,,,7,Q3
+Trembesi,Alderon RS Project,July,2025,28634.12,655286105.8,,,7,Q3
+Trembesi,Alderon RS Retail,July,2025,1474579.3,26113435164.0,,,7,Q3
+Trembesi,Cladding,July,2025,0.0,0.0,,,7,Q3
+Trembesi,Export Alderon,July,2025,154350.48,4277771736.29,,,7,Q3
+Trembesi,Flooring,July,2025,0.0,0.0,,,7,Q3
+Trembesi,Gutter,July,2025,6850.0,173784500.0,,,7,Q3
+Trembesi,ID 860,July,2025,490192.1,11242156408.0,,,7,Q3
+Trembesi,Lasertuff,July,2025,8360.0,176700000.0,,,7,Q3
+Trembesi,Lite,July,2025,66053.7,1377234000.0,,,7,Q3
+Trembesi,Nok,July,2025,45833.87,2091575540.0,,,7,Q3
+Trembesi,PPDU,July,2025,10400.0,234000000.0,,,7,Q3
+Trembesi,R 830,July,2025,2173125.6,45665960280.0,,,7,Q3
+Trembesi,Triplex,July,2025,0.0,0.0,,,7,Q3
+Batang,Alderon RS Project,August,2025,12378.52,284960880.2,,,8,Q3
+Batang,Alderon RS Retail,August,2025,294497.9,5420548000.0,,,8,Q3
+Batang,Compound,August,2025,244255.0,5455567250.0,,,8,Q3
+Batang,ID 860,August,2025,0.0,0.0,,,8,Q3
+Batang,Lasercool,August,2025,27832.57,714441320.0,,,8,Q3
+Batang,Plafon Project,August,2025,16611.0,244729580.0,,,8,Q3
+Batang,Plafond Retail,August,2025,113656.0,1604349415.0,,,8,Q3
+Batang,R 830,August,2025,398611.2,7940573850.0,,,8,Q3
+Gaharu,Compound,August,2025,0.0,0.0,,,8,Q3
+Gaharu,Export Alderon,August,2025,4680.0,104043106.18,,,8,Q3
+Gaharu,Lasercool,August,2025,0.0,0.0,,,8,Q3
+Gaharu,Pipe,August,2025,702211.77,11313992125.0,,,8,Q3
+Gaharu,Plafon Project,August,2025,79498.88,1143237756.0,,,8,Q3
+Gaharu,Plafond Retail,August,2025,87328.59999999999,1265730055.0,,,8,Q3
+Gaharu,WPC (Wall Panel Composite),August,2025,4466.3,74159365.6,,,8,Q3
+Rungkut,Alderon RS Project,August,2025,10731.244,214340228.8,,,8,Q3
+Rungkut,Alderon RS Retail,August,2025,304565.1,5670392850.0,,,8,Q3
+Rungkut,ID 860,August,2025,153750.05,3450211321.6000004,,,8,Q3
+Rungkut,R 830,August,2025,689947.2,13886002400.0,,,8,Q3
+Trembesi,Alderon RS Project,August,2025,10550.86,228790998.6,,,8,Q3
+Trembesi,Alderon RS Retail,August,2025,1503290.33,28358587850.0,,,8,Q3
+Trembesi,Alvera Wall Stone,August,2025,1999.0,34129260.0,,,8,Q3
+Trembesi,Cladding,August,2025,0.0,0.0,,,8,Q3
+Trembesi,Decobond,August,2025,41000.0,700000000.0,,,8,Q3
+Trembesi,Export Alderon,August,2025,8589.68,275232574.92,,,8,Q3
+Trembesi,Flooring,August,2025,94744.0,1366500000.0,,,8,Q3
+Trembesi,Gutter,August,2025,8350.0,211839500.0,,,8,Q3
+Trembesi,ID 830,August,2025,0.0,0.0,,,8,Q3
+Trembesi,ID 860,August,2025,432631.2,9363681099.2,,,8,Q3
+Trembesi,Lasertuff,August,2025,16676.0,352470000.0,,,8,Q3
+Trembesi,Lite,August,2025,45509.0,910180000.0,,,8,Q3
+Trembesi,Nok,August,2025,79348.62999999999,3597068857.0,,,8,Q3
+Trembesi,PPDU,August,2025,12135.0,273037500.0,,,8,Q3
+Trembesi,R 830,August,2025,2481624.0,50861624000.0,,,8,Q3
+Batang,Alderon RS Retail,September,2025,405183.93,7610038849.0,,,9,Q3
+Batang,Compound,September,2025,241225.0,5536474906.76,,,9,Q3
+Batang,Export Alderon,September,2025,1288.0,53753700.0,,,9,Q3
+Batang,Lasercool,September,2025,58632.66,1590255620.0,,,9,Q3
+Batang,Plafon Project,September,2025,78939.4,1213843685.0,,,9,Q3
+Batang,Plafond Retail,September,2025,136071.0,1944499530.0,,,9,Q3
+Batang,R 830,September,2025,506764.8,10663693000.0,,,9,Q3
+Gaharu,Compound,September,2025,0.0,0.0,,,9,Q3
+Gaharu,Export Alderon,September,2025,0.0,0.0,,,9,Q3
+Gaharu,Lasercool,September,2025,0.0,0.0,,,9,Q3
+Gaharu,Pipe,September,2025,600869.27,9710630389.0,,,9,Q3
+Gaharu,Plafon Project,September,2025,87180.42,1295591654.0,,,9,Q3
+Gaharu,Plafond Retail,September,2025,90498.0,1281036555.0,,,9,Q3
+Gaharu,WPC (Wall Panel Composite),September,2025,7780.92,125137584.0,,,9,Q3
+Rungkut,Alderon RS Eco,September,2025,5130.0,77792400.0,,,9,Q3
+Rungkut,Alderon RS Project,September,2025,6436.69,146759136.9,,,9,Q3
+Rungkut,Alderon RS Retail,September,2025,265882.95,4891391625.0,,,9,Q3
+Rungkut,ID 860,September,2025,193903.7,4383079292.4,,,9,Q3
+Rungkut,Lite,September,2025,12920.0,258400000.0,,,9,Q3
+Rungkut,R 830,September,2025,793336.8,17041882350.0,,,9,Q3
+Trembesi,Alderon RS Eco,September,2025,0.0,0.0,,,9,Q3
+Trembesi,Alderon RS Project,September,2025,31239.72,735514502.2,,,9,Q3
+Trembesi,Alderon RS Retail,September,2025,1451051.38,27304662283.0,,,9,Q3
+Trembesi,Cladding,September,2025,0.0,0.0,,,9,Q3
+Trembesi,Export Alderon,September,2025,22702.45,545625118.0,,,9,Q3
+Trembesi,Flooring,September,2025,25584.0,369000000.0,,,9,Q3
+Trembesi,Gutter,September,2025,30097.34,762021510.0,,,9,Q3
+Trembesi,ID 830,September,2025,0.0,0.0,,,9,Q3
+Trembesi,ID 860,September,2025,568003.6,12904741464.6,,,9,Q3
+Trembesi,Lasertuff,September,2025,0.0,0.0,,,9,Q3
+Trembesi,Lite,September,2025,116034.0,2350580000.0,,,9,Q3
+Trembesi,Nok,September,2025,66397.09,3064092503.0,,,9,Q3
+Trembesi,PPDU,September,2025,11716.0,258465000.0,,,9,Q3
+Trembesi,R 830,September,2025,2309992.8,49220489990.0,,,9,Q3
+Trembesi,Triplex,September,2025,1575.0,32250000.0,,,9,Q3
+Batang,Alderon RS Project,October,2025,12378.52,284960880.2,,,10,Q4
+Batang,Alderon RS Retail,October,2025,326633.0,5852576500.0,,,10,Q4
+Batang,Compound,October,2025,136625.0,2954854748.49,,,10,Q4
+Batang,Export Alderon,October,2025,2883.0,12923250.0,,,10,Q4
+Batang,ID 860,October,2025,0.0,0.0,,,10,Q4
+Batang,Lasercool,October,2025,61515.29,1549089857.0,,,10,Q4
+Batang,Plafon Project,October,2025,101002.6,1473353155.0,,,10,Q4
+Batang,Plafond Retail,October,2025,153944.2,2149205425.0,,,10,Q4
+Batang,R 830,October,2025,469795.2,10081022000.0,,,10,Q4
+Gaharu,Compound,October,2025,0.0,0.0,,,10,Q4
+Gaharu,Export Alderon,October,2025,8424.0,195647360.39,,,10,Q4
+Gaharu,Lasercool,October,2025,0.0,0.0,,,10,Q4
+Gaharu,Pipe,October,2025,705913.29,11143909879.0,,,10,Q4
+Gaharu,Plafon Project,October,2025,42210.9,613005546.0,,,10,Q4
+Gaharu,Plafond Retail,October,2025,113059.4,1610816735.0,,,10,Q4
+Gaharu,WPC (Wall Panel Composite),October,2025,1381.07,24267140.0,,,10,Q4
+Rungkut,Alderon RS Eco,October,2025,12618.0,201972120.0,,,10,Q4
+Rungkut,Alderon RS Project,October,2025,6830.4,151695936.0,,,10,Q4
+Rungkut,Alderon RS Retail,October,2025,229932.3,4319998081.0,,,10,Q4
+Rungkut,ID 860,October,2025,215071.72,4660790000.0,,,10,Q4
+Rungkut,Lasertuff,October,2025,18059.8,429987118.0,,,10,Q4
+Rungkut,Lite,October,2025,27166.0,615685670.0,,,10,Q4
+Rungkut,R 830,October,2025,666446.4,14679953200.0,,,10,Q4
+Trembesi,Alderon RS Eco,October,2025,0.0,0.0,,,10,Q4
+Trembesi,Alderon RS Project,October,2025,19907.37,472255224.0,,,10,Q4
+Trembesi,Alderon RS Retail,October,2025,1516305.05,29150209782.0,,,10,Q4
+Trembesi,Cladding,October,2025,0.0,0.0,,,10,Q4
+Trembesi,Export Alderon,October,2025,27092.74,864800605.0,,,10,Q4
+Trembesi,Flooring,October,2025,0.0,0.0,,,10,Q4
+Trembesi,Gutter,October,2025,14850.0,376744500.0,,,10,Q4
+Trembesi,ID 830,October,2025,0.0,0.0,,,10,Q4
+Trembesi,ID 860,October,2025,648044.08,14392916693.0,,,10,Q4
+Trembesi,Lasertuff,October,2025,0.0,0.0,,,10,Q4
+Trembesi,Lite,October,2025,49323.0,1013760000.0,,,10,Q4
+Trembesi,Nok,October,2025,50287.86,2297474540.0,,,10,Q4
+Trembesi,PPDU,October,2025,34236.8,761853000.0,,,10,Q4
+Trembesi,R 830,October,2025,2072988.0,45594055200.0,,,10,Q4
+Trembesi,Triplex,October,2025,7562.1,154675000.0,,,10,Q4
+Batang,Alderon RS Retail,November,2025,379598.0,6521924700.0,,,11,Q4
+Batang,Compound,November,2025,163350.0,3607689500.0,,,11,Q4
+Batang,Lasercool,November,2025,34051.73,807621270.0,,,11,Q4
+Batang,Plafon Project,November,2025,83672.8,1223534095.0,,,11,Q4
+Batang,Plafond Retail,November,2025,217596.0,3038701755.0,,,11,Q4
+Batang,R 830,November,2025,325992.0,6995245000.0,,,11,Q4
+Gaharu,Compound,November,2025,0.0,0.0,,,11,Q4
+Gaharu,Export Alderon,November,2025,0.0,0.0,,,11,Q4
+Gaharu,Lasercool,November,2025,0.0,0.0,,,11,Q4
+Gaharu,Pipe,November,2025,704951.55,11200189660.0,,,11,Q4
+Gaharu,Plafon Project,November,2025,64873.4,986195590.0,,,11,Q4
+Gaharu,Plafond Retail,November,2025,168122.2,2402017810.0,,,11,Q4
+Gaharu,WPC (Wall Panel Composite),November,2025,8982.63,142479548.0,,,11,Q4
+Rungkut,Alderon RS Eco,November,2025,5040.0,80673600.0,,,11,Q4
+Rungkut,Alderon RS Project,November,2025,15824.0,337259741.0,,,11,Q4
+Rungkut,Alderon RS Retail,November,2025,246986.24,4917361293.26,,,11,Q4
+Rungkut,ID 860,November,2025,205740.5,4611394218.0,,,11,Q4
+Rungkut,Lite,November,2025,0.0,0.0,,,11,Q4
+Rungkut,R 830,November,2025,600808.8,13046875247.0,,,11,Q4
+Trembesi,Alderon RS Project,November,2025,26996.13,569543458.0,,,11,Q4
+Trembesi,Alderon RS Retail,November,2025,1558286.53,30011345852.0,,,11,Q4
+Trembesi,Cladding,November,2025,0.0,0.0,,,11,Q4
+Trembesi,Export Alderon,November,2025,0.0,0.0,,,11,Q4
+Trembesi,Flooring,November,2025,21909.6,315384000.0,,,11,Q4
+Trembesi,Gutter,November,2025,21870.2,522091600.0,,,11,Q4
+Trembesi,ID 860,November,2025,761536.59,16974488810.0,,,11,Q4
+Trembesi,Lasertuff,November,2025,0.0,0.0,,,11,Q4
+Trembesi,Lite,November,2025,133854.4,2719052000.0,,,11,Q4
+Trembesi,Nok,November,2025,57118.2,2648924816.0,,,11,Q4
+Trembesi,PPDU,November,2025,13639.68,315710940.0,,,11,Q4
+Trembesi,R 830,November,2025,1821379.2,38573320885.0,,,11,Q4
+Trembesi,Triplex,November,2025,4888.0,100200000.0,,,11,Q4
+Batang,Alderon RS Retail,December,2025,406713.7,7393389700.0,,,12,Q4
+Batang,Compound,December,2025,179850.0,4164849930.4,,,12,Q4
+Batang,Export Alderon,December,2025,0.0,0.0,,,12,Q4
+Batang,Lasercool,December,2025,87561.4,2116501320.0,,,12,Q4
+Batang,Plafon Project,December,2025,51907.92,756456225.0,,,12,Q4
+Batang,Plafond Retail,December,2025,142169.8,2056080775.0,,,12,Q4
+Batang,R 830,December,2025,621124.8,13328303000.0,,,12,Q4
+Gaharu,Compound,December,2025,0.0,0.0,,,12,Q4
+Gaharu,Lasercool,December,2025,0.0,0.0,,,12,Q4
+Gaharu,Pipe,December,2025,713774.78,11095797374.0,,,12,Q4
+Gaharu,Plafon Project,December,2025,26277.6,415344255.0,,,12,Q4
+Gaharu,Plafond Retail,December,2025,66122.0,973552175.0,,,12,Q4
+Gaharu,WPC (Wall Panel Composite),December,2025,2079.16,38932920.0,,,12,Q4
+Rungkut,Alderon RS Project,December,2025,16000.5,356311110.0,,,12,Q4
+Rungkut,Alderon RS Retail,December,2025,263949.25,5580125364.7572,,,12,Q4
+Rungkut,ID 860,December,2025,226719.54,5043472920.0,,,12,Q4
+Rungkut,Lasertuff,December,2025,10115.6,213807000.0,,,12,Q4
+Rungkut,Lite,December,2025,27880.0,557600000.0,,,12,Q4
+Rungkut,R 830,December,2025,671421.6,14790623600.0,,,12,Q4
+Trembesi,Alderon RS Project,December,2025,32859.11,735344179.0,,,12,Q4
+Trembesi,Alderon RS Retail,December,2025,1533967.43,29621451651.0,,,12,Q4
+Trembesi,Alvera Wall Stone,December,2025,4100.0,70000000.0,,,12,Q4
+Trembesi,Cladding,December,2025,0.0,0.0,,,12,Q4
+Trembesi,Export Alderon,December,2025,15094.68,368730720.0,,,12,Q4
+Trembesi,Flooring,December,2025,174405.6,2513144000.0,,,12,Q4
+Trembesi,Gutter,December,2025,11700.0,296829000.0,,,12,Q4
+Trembesi,ID 830,December,2025,10948.0,311780000.0,,,12,Q4
+Trembesi,ID 860,December,2025,504536.25,11735124726.0,,,12,Q4
+Trembesi,Lasertuff,December,2025,0.0,0.0,,,12,Q4
+Trembesi,Lite,December,2025,38742.0,806976000.0,,,12,Q4
+Trembesi,Nok,December,2025,49833.1,2289665475.0,,,12,Q4
+Trembesi,PPDU,December,2025,16580.0,364825000.0,,,12,Q4
+Trembesi,R 830,December,2025,2353711.2,51301223215.0,,,12,Q4
+Batang,Alderon RS Retail,January,2026,321032.45,5920049000.0,321032.45,5920049000,1,Q1
+Batang,Compound,January,2026,0.0,0.0,,,1,Q1
+Batang,Lasercool,January,2026,0.0,0.0,,,1,Q1
+Batang,Plafon Project,January,2026,10047.24,152669880.0,10047.24,152669880,1,Q1
+Batang,Plafond Retail,January,2026,163339.6,2315814205.0,163339.6,2315814205,1,Q1
+Batang,R 830,January,2026,644488.8,13829655500.0,644488.8,13829655500,1,Q1
+Gaharu,Compound,January,2026,162250.0,3571769000.0,162250,3571769000,1,Q1
+Gaharu,Export Alderon,January,2026,0.0,0.0,,,1,Q1
+Gaharu,Lasercool,January,2026,54449.4,1402121800.0,54449.4,1402121800,1,Q1
+Gaharu,Pipe,January,2026,654698.39,10450574733.0,654698.39,10450574733,1,Q1
+Gaharu,Plafon Project,January,2026,20519.8,310844625.0,20519.8,310844625,1,Q1
+Gaharu,Plafond Retail,January,2026,115288.85,1723506750.0,115288.85,1723506750,1,Q1
+Gaharu,WPC (Wall Panel Composite),January,2026,8618.72,138612240.0,8618.72,138612240,1,Q1
+Rungkut,Alderon RS Eco,January,2026,16173.0,272506065.0,16173,272506065,1,Q1
+Rungkut,Alderon RS Project,January,2026,11087.4,240712913.0,11087.4,240712913,1,Q1
+Rungkut,Alderon RS Retail,January,2026,245151.6,4638868500.0,245151.6,4638868500,1,Q1
+Rungkut,ID 860,January,2026,188342.86,4128982740.0,188342.86,4128982740,1,Q1
+Rungkut,Lite,January,2026,0.0,0.0,,,1,Q1
+Rungkut,R 830,January,2026,590121.6,12828527000.0,590121.6,12828527000,1,Q1
+Trembesi,Alderon RS Eco,January,2026,2297.18,42236700.0,2297.18,42236700,1,Q1
+Trembesi,Alderon RS Project,January,2026,11400.59,247362092.0,11400.59,247362092,1,Q1
+Trembesi,Alderon RS Retail,January,2026,1550014.91,29946246401.0,1550014.91,29946246401,1,Q1
+Trembesi,Cladding,January,2026,11520.0,316170000.0,11520,316170000,1,Q1
+Trembesi,Export Alderon,January,2026,10157.7,262133718.76,10157.7,262133718.76,1,Q1
+Trembesi,Flooring,January,2026,88258.4,1271718000.0,88258.4,1271718000,1,Q1
+Trembesi,Gutter,January,2026,16775.77,425145520.0,16775.77,425145520,1,Q1
+Trembesi,ID 860,January,2026,639796.68,14289945999.0,639796.68,14289945999,1,Q1
+Trembesi,Lasertuff,January,2026,15488.0,327360000.0,15488,327360000,1,Q1
+Trembesi,Lite,January,2026,45353.0,962804000.0,45353,962804000,1,Q1
+Trembesi,Nok,January,2026,60907.23,2791795090.0,60907.23,2791795090,1,Q1
+Trembesi,PPDU,January,2026,25560.0,571350000.0,25560,571350000,1,Q1
+Trembesi,R 830,January,2026,2151960.0,46621763600.0,2151960,46621763600,1,Q1
+Batang,Alderon RS Retail,February,2026,296497.9,5442446000.0,296497.9,5442446000,2,Q1
+Batang,Compound,February,2026,0.0,0.0,,,2,Q1
+Batang,Export Alderon,February,2026,0.0,0.0,,,2,Q1
+Batang,Lasercool,February,2026,0.0,0.0,,,2,Q1
+Batang,Plafon Project,February,2026,22563.12,337597650.0,22563.12,337597650,2,Q1
+Batang,Plafond Retail,February,2026,198363.4,2789850610.0,198363.4,2789850610,2,Q1
+Batang,R 830,February,2026,551642.4,11837326500.0,551642.4,11837326500,2,Q1
+Gaharu,Compound,February,2026,143775.0,3428467050.51,143775,3428467050.51,2,Q1
+Gaharu,Lasercool,February,2026,36603.2,930771640.0,36603.2,930771640,2,Q1
+Gaharu,Pipe,February,2026,654100.05,10528875585.0,654100.05,10528875585,2,Q1
+Gaharu,Plafon Project,February,2026,19765.0,305575990.0,19765,305575990,2,Q1
+Gaharu,Plafond Retail,February,2026,149616.6,2112940125.0,#ERROR!,2112940125,2,Q1
+Gaharu,WPC (Wall Panel Composite),February,2026,7221.6,114520890.0,7221.6,114520890,2,Q1
+Rungkut,Alderon RS Eco,February,2026,12600.0,201684000.0,12600,201684000,2,Q1
+Rungkut,Alderon RS Project,February,2026,10703.0,238891278.0,10703,238891278,2,Q1
+Rungkut,Alderon RS Retail,February,2026,290029.62,5087354170.0,290029.62,5087354170,2,Q1
+Rungkut,ID 860,February,2026,199809.52,4398325117.0,199809.52,4398325117,2,Q1
+Rungkut,R 830,February,2026,651945.6,14282387800.0,651945.6,14282387800,2,Q1
+Trembesi,Alderon RS Project,February,2026,298746.94,5351296802.0,298746.94,5351296802,2,Q1
+Trembesi,Alderon RS Retail,February,2026,1153747.32,21835384979.2,1153747.32,21835384979.2,2,Q1
+Trembesi,Cladding,February,2026,0.0,0.0,,,2,Q1
+Trembesi,Export Alderon,February,2026,19212.45,476985962.72,19212.45,476985962.72,2,Q1
+Trembesi,Flooring,February,2026,71313.6,1026544000.0,71313.6,1026544000,2,Q1
+Trembesi,Gutter,February,2026,0.0,0.0,,,2,Q1
+Trembesi,ID 830,February,2026,0.0,0.0,,,2,Q1
+Trembesi,ID 860,February,2026,515934.64,11543740829.0,515934.64,11543740829,2,Q1
+Trembesi,Lasertuff,February,2026,0.0,0.0,,,2,Q1
+Trembesi,Lite,February,2026,53771.0,1075420000.0,53771,1075420000,2,Q1
+Trembesi,Nok,February,2026,58348.8,2752799650.0,58348.8,2752799650,2,Q1
+Trembesi,PPDU,February,2026,35880.4,794784000.0,35880.4,794784000,2,Q1
+Trembesi,R 830,February,2026,2037357.6,44297940500.0,2037357.6,44297940500,2,Q1
+Trembesi,Triplex,February,2026,617.5,11258500.0,617.5,11258500,2,Q1
+Batang,Alderon RS Retail,March,2026,225882.7,4347815000.0,225882.7,4347815000,3,Q1
+Batang,Compound,March,2026,0.0,0.0,,,3,Q1
+Batang,Lasercool,March,2026,0.0,0.0,,,3,Q1
+Batang,Plafon Project,March,2026,70001.82,976721730.0,70001.82,976721730,3,Q1
+Batang,Plafond Retail,March,2026,106814.6,1543602440.0,106814.6,1543602440,3,Q1
+Batang,R 830,March,2026,276000.0,5922500000.0,276000,5922500000,3,Q1
+Gaharu,Compound,March,2026,89150.0,1940639850.0,89150,1940639850,3,Q1
+Gaharu,Export Alderon,March,2026,0.0,0.0,,,3,Q1
+Gaharu,Lasercool,March,2026,1000.0,22062000.0,1000,22062000,3,Q1
+Gaharu,Pipe,March,2026,235565.3,3728000000.0,235565.3,3728000000,3,Q1
+Gaharu,Plafon Project,March,2026,65200.4,923062877.0,65200.4,923062877,3,Q1
+Gaharu,Plafond Retail,March,2026,74758.75,1069474900.0,74758.75,1069474900,3,Q1
+Gaharu,WPC (Wall Panel Composite),March,2026,7543.74,123563700.0,7543.74,123563700,3,Q1
+Rungkut,Alderon RS Eco,March,2026,6642.0,106316280.0,6642,106316280,3,Q1
+Rungkut,Alderon RS Project,March,2026,11360.38,241131912.0,11360.38,241131912,3,Q1
+Rungkut,Alderon RS Retail,March,2026,188610.6,3644682060.0,188610.6,3644682060,3,Q1
+Rungkut,ID 860,March,2026,170231.33,3675453285.0,170231.33,3675453285,3,Q1
+Rungkut,Lite,March,2026,0.0,0.0,,,3,Q1
+Rungkut,R 830,March,2026,529032.0,11442795000.0,529032,11442795000,3,Q1
+Trembesi,Alderon RS Project,March,2026,70635.24,1283263200.0,70635.24,1283263200,3,Q1
+Trembesi,Alderon RS Retail,March,2026,1104314.16,21293945451.0,1104314.16,21293945451,3,Q1
+Trembesi,Cladding,March,2026,0.0,0.0,,,3,Q1
+Trembesi,Decobond,March,2026,4100.0,66500000.0,4100,66500000,3,Q1
+Trembesi,Export Alderon,March,2026,4007.33,107679101.4,4007.33,107679101.4,3,Q1
+Trembesi,Flooring,March,2026,5155.2,74208000.0,5155.2,74208000,3,Q1
+Trembesi,Gutter,March,2026,0.0,0.0,,,3,Q1
+Trembesi,ID 860,March,2026,424898.72,9386281244.0,424898.72,9386281244,3,Q1
+Trembesi,Lasertuff,March,2026,0.0,0.0,,,3,Q1
+Trembesi,Lite,March,2026,40992.0,972096000.0,40992,972096000,3,Q1
+Trembesi,Nok,March,2026,46301.76,2152801220.0,46301.76,2152801220,3,Q1
+Trembesi,PPDU,March,2026,0.0,0.0,,,3,Q1
+Trembesi,R 830,March,2026,1160829.6,25044381600.0,1160829.6,25044381600,3,Q1
+Batang,Alderon RS Retail,April,2026,301306.5,6020521663.0,301306.5,6020521663,4,Q2
+Batang,Compound,April,2026,0.0,0.0,,,4,Q2
+Batang,Lasercool,April,2026,0.0,0.0,,,4,Q2
+Batang,Plafon Project,April,2026,114433.0,1597864945.0,114433,1597864945,4,Q2
+Batang,Plafond Retail,April,2026,111142.8,1625161980.0,111142.8,1625161980,4,Q2
+Batang,R 830,April,2026,452640.0,10475985000.0,452640,10475985000,4,Q2
+Gaharu,Compound,April,2026,261975.0,7608522684.92,261975,7608522684.92,4,Q2
+Gaharu,Export Alderon,April,2026,2812.8,102172613.63,2812.8,102172613.63,4,Q2
+Gaharu,Lasercool,April,2026,34624.5,857490620.0,34624.5,857490620,4,Q2
+Gaharu,Pipe,April,2026,325522.05,5533772890.0,325522.05,5533772890,4,Q2
+Gaharu,Plafon Project,April,2026,186832.0,2646652090.0,186832,2646652090,4,Q2
+Gaharu,Plafond Retail,April,2026,65363.4,937421850.0,65363.4,937421850,4,Q2
+Gaharu,WPC (Wall Panel Composite),April,2026,947.54,15517944.0,947.54,15517944,4,Q2
+Rungkut,Alderon RS Project,April,2026,3691.5,74740800.0,3691.5,74740800,4,Q2
+Rungkut,Alderon RS Retail,April,2026,300105.4,6024501000.0,300105.4,6024501000,4,Q2
+Rungkut,ID 860,April,2026,197835.04,4596292328.0,197835.04,4596292328,4,Q2
+Rungkut,R 830,April,2026,555220.8,12622793800.0,555220.8,12622793800,4,Q2
+Trembesi,Alderon RS Eco,April,2026,19204.4,347376800.0,19204.4,347376800,4,Q2
+Trembesi,Alderon RS Project,April,2026,18348.38,418996530.0,18348.38,418996530,4,Q2
+Trembesi,Alderon RS Retail,April,2026,1061739.8,21457500750.0,1061739.8,21457500750,4,Q2
+Trembesi,Cladding,April,2026,0.0,0.0,,,4,Q2
+Trembesi,Export Alderon,April,2026,100707.76,2831036547.4,100707.76,2831036547.4,4,Q2
+Trembesi,Flooring,April,2026,10778.04,191517480.0,10778.04,191517480,4,Q2
+Trembesi,Gutter,April,2026,0.0,0.0,,,4,Q2
+Trembesi,ID 860,April,2026,548975.46,12913808905.0,548975.46,12913808905,4,Q2
+Trembesi,Lasertuff,April,2026,0.0,0.0,,,4,Q2
+Trembesi,Lite,April,2026,0.0,0.0,,,4,Q2
+Trembesi,Nok,April,2026,45206.7,2226888564.0,45206.7,2226888564,4,Q2
+Trembesi,PPDU,April,2026,40400.0,909000000.0,40400,909000000,4,Q2
+Trembesi,R 830,April,2026,2023584.0,46521638500.0,2023584,46521638500,4,Q2
+Batang,Alderon RS Retail,May,2026,285122.2,5842868000.0,285122.2,5842868000,5,Q2
+Batang,Compound,May,2026,0.0,0.0,,,5,Q2
+Batang,Lasercool,May,2026,0.0,0.0,,,5,Q2
+Batang,Plafon Project,May,2026,143167.0,2212179050.0,143167,2212179050,5,Q2
+Batang,Plafond Retail,May,2026,98642.0,1521635580.0,98642,1521635580,5,Q2
+Batang,R 830,May,2026,614880.0,14257530000.0,614880,14257530000,5,Q2
+Gaharu,Compound,May,2026,143950.0,4054591500.0,143950,4054591500,5,Q2
+Gaharu,Lasercool,May,2026,73113.0,1880022980.0,73112,1880022980,5,Q2
+Gaharu,Pipe,May,2026,639035.64,11054330985.0,639035.64,11054330985,5,Q2
+Gaharu,Plafon Project,May,2026,172278.6,2643909510.0,172278.6,2643909510,5,Q2
+Gaharu,Plafond Retail,May,2026,59500.9,979534750.0,59500.9,979534750,5,Q2
+Gaharu,WPC (Wall Panel Composite),May,2026,0.0,0.0,,,5,Q2
+Rungkut,Alderon RS Project,May,2026,38956.56,909683400.0,38956.56,909683400,5,Q2
+Rungkut,Alderon RS Retail,May,2026,289610.4,5872819000.0,289610.4,5872819000,5,Q2
+Rungkut,ID 860,May,2026,232426.77,5726697960.0,232426.77,5726697960,5,Q2
+Rungkut,Lite,May,2026,0.0,0.0,,,5,Q2
+Rungkut,R 830,May,2026,648900.0,15095868750.0,648900,15095868750,5,Q2
+Trembesi,Alderon RS Eco,May,2026,46449.86,835933050.0,46449.86,835933050,5,Q2
+Trembesi,Alderon RS Project,May,2026,20700.04,488187500.0,20700.04,488187500,5,Q2
+Trembesi,Alderon RS Retail,May,2026,1295233.1,26449829400.0,1295233.1,26449829400,5,Q2
+Trembesi,Cladding,May,2026,0.0,0.0,,,5,Q2
+Trembesi,Export Alderon,May,2026,46187.2,1459257390.4,46187.2,1459257390.4,5,Q2
+Trembesi,Flooring,May,2026,0.0,0.0,,,5,Q2
+Trembesi,Gutter,May,2026,7500.0,209700000.0,7500,209700000,5,Q2
+Trembesi,ID 860,May,2026,581439.28,14173882040.0,581439.28,14173882040,5,Q2
+Trembesi,Lasertuff,May,2026,3742.2,92194200.0,3742.2,92194200,5,Q2
+Trembesi,Lite,May,2026,71570.0,1488656000.0,71570,1488656000,5,Q2
+Trembesi,Nok,May,2026,71116.6,3589614354.0,71116.6,3589614354,5,Q2
+Trembesi,PPDU,May,2026,0.0,0.0,,,5,Q2
+Trembesi,R 830,May,2026,1945296.0,45064115250.0,1945296,45064115250,5,Q2
+Batang,Alderon RS Retail,June,2026,227264.44,4670768790.0,227264.44,4670768790,6,Q2
+Batang,Compound,June,2026,0.0,0.0,,,6,Q2
+Batang,Lasercool,June,2026,0.0,0.0,,,6,Q2
+Batang,Plafon Project,June,2026,158614.2,2534431500.0,158614.2,2534431500,6,Q2
+Batang,Plafond Retail,June,2026,128864.3,2123032250.0,128864.3,2123032250,6,Q2
+Batang,R 830,June,2026,594912.0,13574148000.0,594912,13574148000,6,Q2
+Gaharu,Compound,June,2026,101660.0,2666451425.0,101660,2666451425,6,Q2
+Gaharu,Export Alderon,June,2026,2912.0,133490857.5,2912,133490857.5,6,Q2
+Gaharu,Lasercool,June,2026,72268.99,1977503700.0,72268.99,1977503700,6,Q2
+Gaharu,Pipe,June,2026,681960.24,11823355815.0,681960.24,11823355815,6,Q2
+Gaharu,Plafon Project,June,2026,194478.2,3304649000.0,194478.2,3304649000,6,Q2
+Gaharu,Plafond Retail,June,2026,114565.4,1806441500.0,114565.4,1806441500,6,Q2
+Gaharu,WPC (Wall Panel Composite),June,2026,2202.35,49007760.0,2202.35,49007760,6,Q2
+Rungkut,Alderon RS Project,June,2026,22256.55,488813570.0,22256.55,488813570,6,Q2
+Rungkut,Alderon RS Retail,June,2026,363215.4,7440435000.0,363215.4,7440435000,6,Q2
+Rungkut,ID 860,June,2026,227870.06,5889233200.0,227870.06,5889233200,6,Q2
+Rungkut,Lite,June,2026,45390.0,944112000.0,45390,944112000,6,Q2
+Rungkut,R 830,June,2026,592656.0,13709284000.0,592656,13709284000,6,Q2
+Trembesi,Alderon RS Eco,June,2026,30883.4,540995000.0,30883.4,540995000,6,Q2
+Trembesi,Alderon RS Project,June,2026,24855.6,588506980.0,24855.6,588506980,6,Q2
+Trembesi,Alderon RS Retail,June,2026,1319188.53,27072509300.0,1319188.53,27072509300,6,Q2
+Trembesi,Cladding,June,2026,0.0,0.0,,,6,Q2
+Trembesi,Export Alderon,June,2026,19359.0,598253341.5,19359,598253341.5,6,Q2
+Trembesi,Flooring,June,2026,0.0,0.0,,,6,Q2
+Trembesi,Gutter,June,2026,0.0,0.0,,,6,Q2
+Trembesi,ID 860,June,2026,610330.02,15364247730.0,#ERROR!,15364247730,6,Q2
+Trembesi,Lasertuff,June,2026,27720.0,603477000.0,27720,603477000,6,Q2
+Trembesi,Lite,June,2026,107051.0,2436741440.29,107051,2436741440.29,6,Q2
+Trembesi,Nok,June,2026,68746.15,3488356900.0,68746.15,3488356900,6,Q2
+Trembesi,PPDU,June,2026,0.0,0.0,,,6,Q2
+Trembesi,R 830,June,2026,1860218.4,44849841138.29,1860218.4,44849841138.29,6,Q2
+Batang,Alderon RS Retail,July,2026,340397.7,6994287000.0,340397.7,6994287000,7,Q3
+Batang,Compound,July,2026,0.0,0.0,,,7,Q3
+Batang,ID 860,July,2026,38425.32,962632400.0,38425.32,962632400,7,Q3
+Batang,Lasercool,July,2026,0.0,0.0,,,7,Q3
+Batang,Plafon Project,July,2026,120839.4,2015544750.0,120839.4,2015544750,7,Q3
+Batang,Plafond Retail,July,2026,128875.25,2101585250.0,128875.25,2101585250,7,Q3
+Batang,R 830,July,2026,608928.0,14119518000.0,608928,14119518000,7,Q3
+Gaharu,Compound,July,2026,120435.0,2968968000.0,120435,2968968000,7,Q3
+Gaharu,Export Alderon,July,2026,0.0,0.0,,,7,Q3
+Gaharu,Lasercool,July,2026,87277.58,2551932700.0,87277.58,2551932700,7,Q3
+Gaharu,Pipe,July,2026,781175.83,13529123030.0,781175.83,13529123030,7,Q3
+Gaharu,Plafon Project,July,2026,75001.6,1187577250.0,75001.6,1187577250,7,Q3
+Gaharu,Plafond Retail,July,2026,112810.6,1781880000.0,112810.6,1781880000,7,Q3
+Gaharu,WPC (Wall Panel Composite),July,2026,6211.64,105753547.2,#ERROR!,#ERROR!,7,Q3
+Rungkut,Alderon RS Eco,July,2026,0.0,0.0,,,7,Q3
+Rungkut,Alderon RS Project,July,2026,12342.86,280931310.0,12342.86,280931310,7,Q3
+Rungkut,Alderon RS Retail,July,2026,357361.44,7361251500.0,357361.44,7361251500,7,Q3
+Rungkut,ID 860,July,2026,235276.07,5867342660.0,#ERROR!,5867342660,7,Q3
+Rungkut,Lite,July,2026,24820.0,516256000.0,24820,516256000,7,Q3
+Rungkut,R 830,July,2026,474909.6,11215838350.0,#ERROR!,11215838350,7,Q3
+Trembesi,Alderon RS Eco,July,2026,30636.0,546342000.0,30636,546342000,7,Q3
+Trembesi,Alderon RS Project,July,2026,22604.02,523478520.0,22604.02,523478520,7,Q3
+Trembesi,Alderon RS Retail,July,2026,1375420.45,28464908000.0,1375420.45,28464908000,7,Q3
+Trembesi,Cladding,July,2026,5740.8,167021400.0,5740.8,167021400,7,Q3
+Trembesi,Export Alderon,July,2026,9545.9,329003058.16,9545.9,329003058.16,7,Q3
+Trembesi,Flooring,July,2026,77505.24,1384120800.0,#ERROR!,1384120800,7,Q3
+Trembesi,Gutter,July,2026,0.0,0.0,,,7,Q3
+Trembesi,ID 860,July,2026,607425.58,14730902000.0,607425.58,14730902000,7,Q3
+Trembesi,Lasertuff,July,2026,0.0,0.0,,,7,Q3
+Trembesi,Lite,July,2026,44112.9,1025928480.0,44112.9,1025928480,7,Q3
+Trembesi,Nok,July,2026,60851.37,3061111700.0,#ERROR!,3061111700,7,Q3
+Trembesi,PPDU,July,2026,22800.0,543780000.0,22800,543780000,7,Q3
+Trembesi,R 830,July,2026,1974842.4,47085705550.0,1974842.4,47085705550,7,Q3
+Trembesi,Triplex,July,2026,4045.0,84945000.0,4045,84945000,7,Q3
+Batang,Alderon RS Project,August,2026,8870.16,213225000.0,8870.16,213225000,8,Q3
+Batang,Alderon RS Retail,August,2026,256237.0,4724066250.0,256237,4724066250,8,Q3
+Batang,Compound,August,2026,0.0,0.0,,,8,Q3
+Batang,ID 860,August,2026,13486.65,322818750.0,13486.65,322818750,8,Q3
+Batang,Lasercool,August,2026,0.0,0.0,,,8,Q3
+Batang,Plafon Project,August,2026,75812.8,1225163500.0,75812.8,1225163500,8,Q3
+Batang,Plafond Retail,August,2026,82496.75,1313240000.0,82496.75,1313240000,8,Q3
+Batang,R 830,August,2026,496612.8,11515209300.0,496612.8,11515209300,8,Q3
+Gaharu,Compound,August,2026,147600.0,3579515000.0,147600,3579515000,8,Q3
+Gaharu,Export Alderon,August,2026,0.0,0.0,,,8,Q3
+Gaharu,Lasercool,August,2026,29185.0,757341600.0,29185,757341600,8,Q3
+Gaharu,Pipe,August,2026,1157373.75,19065456990.0,1157373.75,19065456990,8,Q3
+Gaharu,Plafon Project,August,2026,46936.35,779516250.0,46936.35,779516250,8,Q3
+Gaharu,Plafond Retail,August,2026,85315.35,1383619800.0,85315.35,1383619800,8,Q3
+Gaharu,WPC (Wall Panel Composite),August,2026,5451.6,93283720.0,5451.6,93283720,8,Q3
+Rungkut,Alderon RS Project,August,2026,12345.6,275717100.0,12345.6,275717100,8,Q3
+Rungkut,Alderon RS Retail,August,2026,408698.0,7379056750.0,408698,7379056750,8,Q3
+Rungkut,ID 860,August,2026,168859.35,4177900910.0,#ERROR!,4177900910,8,Q3
+Rungkut,R 830,August,2026,445440.0,10458830000.0,445440,10458830000,8,Q3
+Trembesi,Alderon RS Project,August,2026,21273.12,553161420.0,21273.12,553161420,8,Q3
+Trembesi,Alderon RS Retail,August,2026,1306380.98,25800042550.0,1306380.98,25800042550,8,Q3
+Trembesi,Alvera Wall Stone,August,2026,0.0,0.0,,,8,Q3
+Trembesi,Cladding,August,2026,5184.0,150822000.0,5184,150822000,8,Q3
+Trembesi,Decobond,August,2026,0.0,0.0,,,8,Q3
+Trembesi,Export Alderon,August,2026,3178.6,94112773.48,3178.6,94112773.48,8,Q3
+Trembesi,Flooring,August,2026,36312.0,639840000.0,36312,639840000,8,Q3
+Trembesi,Gutter,August,2026,4655.0,130120000.0,4655,130120000,8,Q3
+Trembesi,ID 830,August,2026,0.0,0.0,,,8,Q3
+Trembesi,ID 860,August,2026,551393.82,13428684120.0,#ERROR!,13428684120,8,Q3
+Trembesi,Lasertuff,August,2026,5955.4,146719400.0,5955.4,146719400,8,Q3
+Trembesi,Lite,August,2026,82415.0,1738424000.0,82415,1738424000,8,Q3
+Trembesi,Nok,August,2026,85941.67,4319500800.0,#ERROR!,4319500800,8,Q3
+Trembesi,PPDU,August,2026,20200.0,454500000.0,20200,454500000,8,Q3
+Trembesi,R 830,August,2026,2117092.8,49519014160.0,2117092.8,49519014160,8,Q3
+Batang,Alderon RS Retail,September,2026,266848.4,5394135000.0,266848.4,5394135000,9,Q3
+Batang,Compound,September,2026,0.0,0.0,,,9,Q3
+Batang,Export Alderon,September,2026,0.0,0.0,,,9,Q3
+Batang,Lasercool,September,2026,0.0,0.0,,,9,Q3
+Batang,Plafon Project,September,2026,111697.4,1768886500.0,111697.4,1768886500,9,Q3
+Batang,Plafond Retail,September,2026,144181.2,2296804500.0,144181.2,2296804500,9,Q3
+Batang,R 830,September,2026,506688.0,11748828000.0,506688,11748828000,9,Q3
+Gaharu,Compound,September,2026,199700.0,5250310000.0,199700,5250310000,9,Q3
+Gaharu,Export Alderon,September,2026,3304.0,151738124.0,3304,151738124,9,Q3
+Gaharu,Lasercool,September,2026,38714.58,1093579940.0,38714.58,1093579940,9,Q3
+Gaharu,Pipe,September,2026,1162188.59,19410628960.0,1162188.59,19410628960,9,Q3
+Gaharu,Plafon Project,September,2026,116751.0,1913761250.0,116751,1913761250,9,Q3
+Gaharu,Plafond Retail,September,2026,121385.3,1910797800.0,121385.3,1910797800,9,Q3
+Gaharu,WPC (Wall Panel Composite),September,2026,1987.83,38543520.0,#ERROR!,38543520,9,Q3
+Rungkut,Alderon RS Eco,September,2026,0.0,0.0,,,9,Q3
+Rungkut,Alderon RS Project,September,2026,22902.7,526074720.0,22902.7,526074720,9,Q3
+Rungkut,Alderon RS Retail,September,2026,444229.9,8896266250.0,444229.9,8896266250,9,Q3
+Rungkut,ID 860,September,2026,198359.78,4900699760.0,#ERROR!,4900699760,9,Q3
+Rungkut,Lite,September,2026,82402.4,1713969920.0,82402.4,1713969920,9,Q3
+Rungkut,R 830,September,2026,459379.2,11052397200.0,#ERROR!,11052397200,9,Q3
+Trembesi,Alderon RS Eco,September,2026,24444.0,426288000.0,24444,426288000,9,Q3
+Trembesi,Alderon RS Project,September,2026,21969.78,516950050.0,21969.78,516950050,9,Q3
+Trembesi,Alderon RS Retail,September,2026,1279608.46,25694818375.0,1279608.46,25694818375,9,Q3
+Trembesi,Cladding,September,2026,0.0,0.0,,,9,Q3
+Trembesi,Export Alderon,September,2026,64750.28,1894404117.28,#ERROR!,#ERROR!,9,Q3
+Trembesi,Flooring,September,2026,0.0,0.0,,,9,Q3
+Trembesi,Gutter,September,2026,7500.0,209700000.0,7500,209700000,9,Q3
+Trembesi,ID 830,September,2026,0.0,0.0,,,9,Q3
+Trembesi,ID 860,September,2026,481665.11,11931378920.0,#ERROR!,11931378920,9,Q3
+Trembesi,Lasertuff,September,2026,0.0,0.0,,,9,Q3
+Trembesi,Lite,September,2026,21612.6,493804480.0,21612.6,493804480,9,Q3
+Trembesi,Nok,September,2026,61774.27,3111031600.0,#ERROR!,3111031600,9,Q3
+Trembesi,PPDU,September,2026,45600.0,1032210000.0,45600,1032210000,9,Q3
+Trembesi,R 830,September,2026,1759368.0,40922765500.0,1759368,40922765500,9,Q3
+Trembesi,Triplex,September,2026,2303.1,43528590.0,2303.1,43528590,9,Q3
+Batang,Alderon RS Project,October,2026,6878.16,160203810.0,6878.16,160203810,10,Q4
+Batang,Alderon RS Retail,October,2026,274317.0,5403178750.0,274317,5403178750,10,Q4
+Batang,Compound,October,2026,0.0,0.0,,,10,Q4
+Batang,Export Alderon,October,2026,0.0,0.0,,,10,Q4
+Batang,ID 860,October,2026,24564.0,592206000.0,24564,592206000,10,Q4
+Batang,Lasercool,October,2026,0.0,0.0,,,10,Q4
+Batang,Plafon Project,October,2026,170865.2,2726817500.0,170865.2,2726817500,10,Q4
+Batang,Plafond Retail,October,2026,104078.35,1639579000.0,104078.35,1639579000,10,Q4
+Batang,R 830,October,2026,502130.4,11643148650.0,502130.4,11643148650,10,Q4
+Gaharu,Compound,October,2026,148825.0,3949908333.92,148825,3949908333.92,10,Q4
+Gaharu,Export Alderon,October,2026,0.0,0.0,,,10,Q4
+Gaharu,Lasercool,October,2026,34466.6,986105020.0,34466.6,986105020,10,Q4
+Gaharu,Pipe,October,2026,1418128.51,23346336865.0,1418128.51,23346336865,10,Q4
+Gaharu,Plafon Project,October,2026,66676.7,1089696125.0,66676.7,1089696125,10,Q4
+Gaharu,Plafond Retail,October,2026,147048.5,2324092640.0,#ERROR!,2324092640,10,Q4
+Gaharu,WPC (Wall Panel Composite),October,2026,2751.41,48611280.0,2751.41,48611280,10,Q4
+Rungkut,Alderon RS Eco,October,2026,0.0,0.0,,,10,Q4
+Rungkut,Alderon RS Project,October,2026,16939.32,393080790.0,16939.32,393080790,10,Q4
+Rungkut,Alderon RS Retail,October,2026,517151.25,10163909688.0,517151.25,10163909688,10,Q4
+Rungkut,ID 860,October,2026,183136.39,4647655930.0,183136.39,4647655930,10,Q4
+Rungkut,Lasertuff,October,2026,0.0,0.0,,,10,Q4
+Rungkut,Lite,October,2026,60350.0,1255280000.0,60350,1255280000,10,Q4
+Rungkut,R 830,October,2026,440354.4,10210717650.0,440354.4,10210717650,10,Q4
+Trembesi,Alderon RS Eco,October,2026,13183.5,208417053.0,13183.5,208417053,10,Q4
+Trembesi,Alderon RS Project,October,2026,0.0,0.0,,,10,Q4
+Trembesi,Alderon RS Retail,October,2026,1264637.6,25278889600.0,1264637.6,25278889600,10,Q4
+Trembesi,Cladding,October,2026,0.0,0.0,,,10,Q4
+Trembesi,Export Alderon,October,2026,1428.86,40055472.0,1428.86,40055472,10,Q4
+Trembesi,Flooring,October,2026,0.0,0.0,,,10,Q4
+Trembesi,Gutter,October,2026,5180.0,144760000.0,5180,144760000,10,Q4
+Trembesi,ID 830,October,2026,0.0,0.0,,,10,Q4
+Trembesi,ID 860,October,2026,451137.92,10969308950.0,#ERROR!,10969308950,10,Q4
+Trembesi,Lasertuff,October,2026,0.0,0.0,,,10,Q4
+Trembesi,Lite,October,2026,106120.0,2275392000.0,106120,2275392000,10,Q4
+Trembesi,Nok,October,2026,51333.2,2592275500.0,51333.2,2592275500,10,Q4
+Trembesi,PPDU,October,2026,0.0,0.0,,,10,Q4
+Trembesi,R 830,October,2026,1699869.6,39831741296.0,1699869.6,39831741296,10,Q4
+Trembesi,Triplex,October,2026,0.0,0.0,,,10,Q4
+Batang,Alderon RS Retail,November,2026,0.0,0.0,300000,6531000000,11,Q4
+Batang,Compound,November,2026,0.0,0.0,,,11,Q4
+Batang,Lasercool,November,2026,0.0,0.0,50000,1400000000,11,Q4
+Batang,Plafon Project,November,2026,0.0,0.0,50000,770000000,11,Q4
+Batang,Plafond Retail,November,2026,0.0,0.0,200000,2960000000,11,Q4
+Batang,R 830,November,2026,0.0,0.0,500000,11600000000,11,Q4
+Gaharu,Compound,November,2026,0.0,0.0,,,11,Q4
+Gaharu,Export Alderon,November,2026,0.0,0.0,,,11,Q4
+Gaharu,Lasercool,November,2026,0.0,0.0,,,11,Q4
+Gaharu,Pipe,November,2026,0.0,0.0,1000000,17000000000,11,Q4
+Gaharu,Plafon Project,November,2026,0.0,0.0,50000,770000000,11,Q4
+Gaharu,Plafond Retail,November,2026,0.0,0.0,150000,2220000000,11,Q4
+Gaharu,WPC (Wall Panel Composite),November,2026,0.0,0.0,150000,3675000000,11,Q4
+Rungkut,Alderon RS Eco,November,2026,0.0,0.0,,,11,Q4
+Rungkut,Alderon RS Project,November,2026,0.0,0.0,20000,480000000,11,Q4
+Rungkut,Alderon RS Retail,November,2026,0.0,0.0,500000,9871000000,11,Q4
+Rungkut,ID 860,November,2026,0.0,0.0,200000,4800000000,11,Q4
+Rungkut,Lite,November,2026,0.0,0.0,,,11,Q4
+Rungkut,R 830,November,2026,0.0,0.0,500000,11600000000,11,Q4
+Trembesi,Alderon RS Project,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Alderon RS Retail,November,2026,0.0,0.0,1300000,25664600000,11,Q4
+Trembesi,Cladding,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Export Alderon,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Flooring,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Gutter,November,2026,0.0,0.0,,,11,Q4
+Trembesi,ID 860,November,2026,0.0,0.0,450000,10800000000,11,Q4
+Trembesi,Lasertuff,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Lite,November,2026,0.0,0.0,,,11,Q4
+Trembesi,Nok,November,2026,0.0,0.0,33052.5,1680495750,11,Q4
+Trembesi,PPDU,November,2026,0.0,0.0,,,11,Q4
+Trembesi,R 830,November,2026,0.0,0.0,1800000,41760000000,11,Q4
+Trembesi,Triplex,November,2026,0.0,0.0,,,11,Q4
+Batang,Alderon RS Retail,December,2026,0.0,0.0,300000,6531000000,12,Q4
+Batang,Compound,December,2026,0.0,0.0,,,12,Q4
+Batang,Export Alderon,December,2026,0.0,0.0,,,12,Q4
+Batang,Lasercool,December,2026,0.0,0.0,50000,1400000000,12,Q4
+Batang,Plafon Project,December,2026,0.0,0.0,50000,770000000,12,Q4
+Batang,Plafond Retail,December,2026,0.0,0.0,200000,2960000000,12,Q4
+Batang,R 830,December,2026,0.0,0.0,500000,11600000000,12,Q4
+Gaharu,Compound,December,2026,0.0,0.0,,,12,Q4
+Gaharu,Lasercool,December,2026,0.0,0.0,,,12,Q4
+Gaharu,Pipe,December,2026,0.0,0.0,1000000,17000000000,12,Q4
+Gaharu,Plafon Project,December,2026,0.0,0.0,50000,770000000,12,Q4
+Gaharu,Plafond Retail,December,2026,0.0,0.0,150000,2220000000,12,Q4
+Gaharu,WPC (Wall Panel Composite),December,2026,0.0,0.0,150000,3675000000,12,Q4
+Rungkut,Alderon RS Project,December,2026,0.0,0.0,20000,480000000,12,Q4
+Rungkut,Alderon RS Retail,December,2026,0.0,0.0,500000,9871000000,12,Q4
+Rungkut,ID 860,December,2026,0.0,0.0,150000,3600000000,12,Q4
+Rungkut,Lasertuff,December,2026,0.0,0.0,,,12,Q4
+Rungkut,Lite,December,2026,0.0,0.0,5000,104000000,12,Q4
+Rungkut,R 830,December,2026,0.0,0.0,500000,11600000000,12,Q4
+Trembesi,Alderon RS Project,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Alderon RS Retail,December,2026,0.0,0.0,1300000,25664600000,12,Q4
+Trembesi,Alvera Wall Stone,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Cladding,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Export Alderon,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Flooring,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Gutter,December,2026,0.0,0.0,,,12,Q4
+Trembesi,ID 830,December,2026,0.0,0.0,,,12,Q4
+Trembesi,ID 860,December,2026,0.0,0.0,250000,6000000000,12,Q4
+Trembesi,Lasertuff,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Lite,December,2026,0.0,0.0,,,12,Q4
+Trembesi,Nok,December,2026,0.0,0.0,33052.5,1680495750,12,Q4
+Trembesi,PPDU,December,2026,0.0,0.0,,,12,Q4
+Trembesi,R 830,December,2026,0.0,0.0,1800000,41760000000,12,Q4
